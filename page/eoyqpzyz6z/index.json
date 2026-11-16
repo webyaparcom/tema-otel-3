@@ -1,0 +1,40 @@
+{
+  "id": "eoyqpzyz6z",
+  "name": {
+    "tr": "Odalar",
+    "en": "Rooms",
+    "ar": "الغرف"
+  },
+  "description": {
+    "tr": "Odalar, havuz, bahçe ve sofra; görseller temsilîdir.",
+    "en": "Rooms, pool, garden and table; images are representative.",
+    "ar": "الغرف والمسبح والحديقة والمائدة؛ الصور تمثيلية."
+  },
+  "keyword": {
+    "tr": "Odalar",
+    "en": "Rooms",
+    "ar": "الغرف"
+  },
+  "path": "hizmetler",
+  "icon": "bed",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "50rpdv",
+      "ic3shg"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Odalar",
+    "en": "Rooms",
+    "ar": "الغرف"
+  },
+  "date": "2026-11-16T16:03:24.869Z",
+  "update": "2026-11-16T16:10:42.303Z"
+}

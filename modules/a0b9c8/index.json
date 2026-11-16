@@ -1,0 +1,57 @@
+{
+  "name": "İletişim Harita Perdesi — tıklayınca yüklenen harita (gizlilik perdesi) + kanal satırları",
+  "description": "Sağda bulanık sokak deseni ve sallanan iğneyle «harita perdesi»: adres alt şeritte yazılı; yuvarlak harita düğmesine basılınca Google Maps gömmesi (desing haritaGomme / mapEmbed, yoksa adresten embed) o anda kurulur, perde kalkar. Öncesinde üçüncü taraf isteği yok. Altında yol tarifi bağlantısı; solda başlık ve öteki kanallar çizgili satırlarda. iletisim-harita-ust / -yan / form-harita haritayı (ya da yer tutucuyu) sayfa açılır açılmaz basar; bu modül haritayı RIZA İLE yükler: iframe JS'le yalnız tıklamada kurulur (haritaPerde), JS yoksa düğme gizli kalır ve yalnız dış bağlantı çalışır. Kanallar desing'den (adres · telefon · WhatsApp · e-posta · saat) + data satırları; etiketler dil sözlüğü, renkler desing + var(--mx-site-*), mantıksal CSS → RTL. Kanal yoksa blok basılmaz.",
+  "version": "1.0.0",
+  "icon": "map",
+  "category": "contact",
+  "subCategory": "map-consent",
+  "tags": [
+    "contact",
+    "map",
+    "privacy",
+    "consent",
+    "interactive",
+    "rtl",
+    "fabrika"
+  ],
+  "desing": {
+    "max": "1200px",
+    "bosluk": "clamp(56px, 8vw, 104px)",
+    "yuvarlak": "18px",
+    "ust": "",
+    "baslik": "",
+    "metin": "",
+    "adres": "",
+    "telefon": "",
+    "eposta": "",
+    "whatsapp": "",
+    "saat": "",
+    "haritaUrl": "",
+    "haritaGomme": "",
+    "waMesaj": "",
+    "bg": "var(--mx-site-surface, #f6f7f9)",
+    "text": "var(--mx-site-text, #111318)",
+    "muted": "color-mix(in srgb, var(--mx-site-text, #111318) 70%, var(--mx-site-surface, #f6f7f9))",
+    "kartBg": "var(--mx-site-bg, #ffffff)",
+    "cizgi": "color-mix(in srgb, var(--mx-site-text, #111318) 12%, transparent)",
+    "accent": "var(--mx-site-primary, #2563eb)",
+    "accentInk": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 70%, var(--mx-site-text, #111318))",
+    "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+    "vurguBg": "var(--mx-site-primary, #2563eb)",
+    "vurguText": "var(--mx-site-primary-contrast, #ffffff)",
+    "bgcolor": "var(--mx-site-surface, #f6f7f9)",
+    "color": "var(--mx-site-text, #111318)"
+  },
+  "data": [],
+  "veri": {
+    "statik": true,
+    "dinamik": false,
+    "kaynak": "desing",
+    "alanlar": {
+      "ikon": "Material Symbols adı (kanal türü ikondan da anlaşılır: mail · call · location_on · schedule)",
+      "deger": "dil sözlüğü (görünen değer, zorunlu; eski `text`)",
+      "url": "bağlantı (boşsa e-posta/telefon/haritadan türetilir)",
+      "baslik": "dil sözlüğü (kanal etiketi)"
+    }
+  }
+}

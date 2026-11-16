@@ -1,0 +1,138 @@
+{
+  "data": [
+    {
+      "id": "eoyqpzyz6z",
+      "name": {
+        "tr": "Odalar",
+        "en": "Rooms",
+        "ar": "الغرف"
+      },
+      "description": {
+        "tr": "Odalar, havuz, bahçe ve sofra; görseller temsilîdir.",
+        "en": "Rooms, pool, garden and table; images are representative.",
+        "ar": "الغرف والمسبح والحديقة والمائدة؛ الصور تمثيلية."
+      },
+      "path": "hizmetler",
+      "icon": "bed",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "50rpdv",
+          "ic3shg"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Otelimiz",
+        "en": "Our hotel",
+        "ar": "فندقنا"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 1,
+      "icon": "info",
+      "desing": {
+        "header": [],
+        "body": [
+          "qcx38h",
+          "f3kunh"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Avlumuz ve konuk puanları (kurgusal).",
+        "en": "Our courtyard and guest ratings (fictional).",
+        "ar": "فناؤنا وتقييمات الضيوف (افتراضية)."
+      }
+    },
+    {
+      "id": "t53asxuncd",
+      "name": {
+        "tr": "İptal koşulları",
+        "en": "Cancellation",
+        "ar": "شروط الإلغاء"
+      },
+      "description": {
+        "tr": "İptal, değişiklik ve cayma hakkı bilgisi.",
+        "en": "Cancellation, changes and right of withdrawal.",
+        "ar": "الإلغاء والتعديل وحق العدول."
+      },
+      "path": "sorular",
+      "icon": "policy",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "a8qy6t"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "h8bkjb6g69",
+      "name": {
+        "tr": "Rezervasyon",
+        "en": "Booking",
+        "ar": "الحجز"
+      },
+      "description": {
+        "tr": "Konaklama talep formu (demo).",
+        "en": "Stay request form (demo).",
+        "ar": "نموذج طلب إقامة (تجريبي)."
+      },
+      "path": "teklif-al",
+      "icon": "hotel",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "ic3shg",
+          "a0b9c8"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 4,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "a0b9c8",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon ve çalışma saatleri.",
+        "en": "Address, phone and opening hours.",
+        "ar": "العنوان والهاتف وساعات العمل."
+      }
+    }
+  ],
+  "desc": []
+}

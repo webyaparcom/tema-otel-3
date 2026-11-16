@@ -1,0 +1,127 @@
+<section class="modulex-cagri-kontenjan{{fbsinif}}" {{fbetiket}}>
+  <div class="modulex-cagri-kontenjan-ic">
+    {{fbbas}}
+    {{fbgovde}}
+  </div>
+</section>
+
+<style>
+  /* cagri-kontenjan — Aciliyet sayıyla kurulur: cagri-maddeler gerekçe listeler, stats ailesi sayıyı bilgi olarak verir; bu modül kalan yer + doluluk çubuğuyla «yer kalmadan başvur» çağrısı yapar — ailede ilerleme/ölçer iskeleti yok. */
+  .modulex-cagri-kontenjan { box-sizing: border-box; width: 100%; padding: --bosluk-- 20px; background: --bg--; color: --yaziRenk--; font-size: 1rem; line-height: 1.6; font-family: var(--mx-font-sans, inherit); overflow-wrap: break-word; }
+  .modulex-cagri-kontenjan *, .modulex-cagri-kontenjan *::before, .modulex-cagri-kontenjan *::after { box-sizing: border-box; }
+  /* ham/css.css «* { font-size: 14px }» kalıtımı keser — modül içinde boyut üstten gelsin (ikon yazı tipi hariç) */
+  .modulex-cagri-kontenjan :where(*:not(.material-symbols-outlined)) { font-size: inherit; }
+  /* aynı «*» kuralı font-weight 400 · line-height 1.2 · font-family de basar — modül içinde kalıtım */
+  .modulex-cagri-kontenjan :where(*:not(.material-symbols-outlined)) { font-weight: inherit; line-height: inherit; font-family: inherit; }
+  .modulex-cagri-kontenjan :where(h2, h3, h4, p, ul, ol, li, figure, blockquote, dl, dd) { margin: 0; }
+  .modulex-cagri-kontenjan :where(ul, ol) { padding: 0; list-style: none; }
+  .modulex-cagri-kontenjan img { display: block; max-width: 100%; }
+  /* <img width height> öznitelik yüksekliği CSS aspect-ratio'yu ezer — sıfır özgüllükle auto (modül sınıfının height'ı yine kazanır) */
+  :where(.modulex-cagri-kontenjan) img { height: auto; }
+  .modulex-cagri-kontenjan [hidden] { display: none !important; }
+  .modulex-cagri-kontenjan :where(a, button, summary, [data-cevir]) { cursor: pointer; }
+  .modulex-cagri-kontenjan :where(a, button, summary, [tabindex]):focus-visible { outline: 3px solid --accent--; outline-offset: 3px; }
+  .modulex-cagri-kontenjan-ic { max-width: --max--; margin-inline: auto; }
+  .modulex-cagri-kontenjan-bas { display: grid; gap: 12px; margin-block-end: clamp(32px, 4vw, 52px); }
+  .modulex-cagri-kontenjan--bassiz .modulex-cagri-kontenjan-bas { display: none; }
+  .modulex-cagri-kontenjan-ust { color: --accentInk--; font-size: 0.8rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; }
+  .modulex-cagri-kontenjan-baslik { font-family: var(--mx-font-heading, inherit); font-size: clamp(1.8rem, 3.4vw, 2.8rem); font-weight: 750; letter-spacing: -0.025em; line-height: 1.1; }
+  .modulex-cagri-kontenjan-metin { color: --muted--; font-size: 1.05rem; line-height: 1.7; }
+  .modulex-cagri-kontenjan-cta { display: flex; flex-wrap: wrap; gap: 12px; margin-block-start: 8px; }
+  .modulex-cagri-kontenjan-dugme { display: inline-flex; align-items: center; gap: 8px; min-height: 48px; padding: 12px 22px; border: 2px solid --accent--; border-radius: 999px; background: --accent--; color: --accentText--; font-weight: 700; text-decoration: none; transition: transform 0.25s ease, background 0.25s ease, color 0.25s ease; }
+  .modulex-cagri-kontenjan-dugme:hover { transform: translateY(-2px); }
+  .modulex-cagri-kontenjan-dugme--ikincil { background: transparent; color: --yaziRenk--; border-color: --cizgi--; }
+  .modulex-cagri-kontenjan-dugme--ikincil:hover { border-color: --accent--; }
+  .modulex-cagri-kontenjan-dugme .material-symbols-outlined { font-size: 20px; }
+
+  .modulex-cagri-kontenjan-duzen { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(28px, 5vw, 72px); align-items: center; }
+  .modulex-cagri-kontenjan-duzen--tek { grid-template-columns: minmax(0, 1fr); max-width: 760px; }
+  .modulex-cagri-kontenjan-yazi { display: grid; gap: 14px; justify-items: start; }
+  .modulex-cagri-kontenjan-son { display: inline-flex; align-items: center; gap: 8px; padding: 8px 14px; border-radius: 999px; background: color-mix(in srgb, --accent-- 14%, transparent); color: --accentInk--; font-weight: 700; }
+  .modulex-cagri-kontenjan-sonikon { font-size: 20px; }
+  .modulex-cagri-kontenjan-pano { display: grid; gap: 22px; padding: clamp(22px, 4vw, 40px); border: 1px solid --cizgi--; border-radius: --yuvarlak--; background: --kartBg--; }
+  .modulex-cagri-kontenjan-ana { display: grid; gap: 14px; }
+  .modulex-cagri-kontenjan-kalan { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+  .modulex-cagri-kontenjan-ksayi { color: --accentInk--; font-family: var(--mx-font-heading, inherit); font-size: clamp(3rem, 7vw, 5rem); font-weight: 800; letter-spacing: -0.04em; line-height: 1; font-variant-numeric: tabular-nums; }
+  .modulex-cagri-kontenjan-kyazi { font-size: 1.1rem; font-weight: 700; }
+  .modulex-cagri-kontenjan-olcer { display: grid; gap: 6px; }
+  .modulex-cagri-kontenjan-yuzde { justify-self: end; color: --muted--; font-size: 0.9rem; font-weight: 700; font-variant-numeric: tabular-nums; }
+  .modulex-cagri-kontenjan-ray { display: block; overflow: hidden; height: 10px; border-radius: 999px; background: color-mix(in srgb, --yaziRenk-- 10%, transparent); }
+  .modulex-cagri-kontenjan-ray--ana { height: 16px; }
+  .modulex-cagri-kontenjan-dolgu { display: block; height: 100%; inline-size: calc(var(--d) * 100%); border-radius: inherit; background: linear-gradient(90deg, color-mix(in srgb, --accent-- 70%, --kartBg--), --accent--); transition: inline-size 1.4s cubic-bezier(0.2, 0.7, 0.2, 1); }
+  [dir="rtl"] .modulex-cagri-kontenjan-dolgu { background: linear-gradient(270deg, color-mix(in srgb, --accent-- 70%, --kartBg--), --accent--); }
+  .modulex-cagri-kontenjan--hazir:not(.modulex-cagri-kontenjan--gor) .modulex-cagri-kontenjan-dolgu { inline-size: 0; }
+  .modulex-cagri-kontenjan-kademeler { display: grid; gap: 14px; padding-block-start: 18px; border-block-start: 1px dashed --cizgi--; }
+  .modulex-cagri-kontenjan-kademe { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 6px 12px; align-items: center; }
+  .modulex-cagri-kontenjan-kademe .modulex-cagri-kontenjan-ray { grid-column: 1 / -1; }
+  .modulex-cagri-kontenjan-kad { font-weight: 650; }
+  .modulex-cagri-kontenjan-kdeger { color: --muted--; font-size: 0.9rem; font-variant-numeric: tabular-nums; }
+  @media (max-width: 768px) {
+    .modulex-cagri-kontenjan-duzen { grid-template-columns: minmax(0, 1fr); }
+  }
+  .modulex-cagri-kontenjan-wasvg { width: 1.25em; height: 1.25em; flex: none; }
+  .modulex-cagri-kontenjan-maddeler { display: grid; gap: 12px; }
+  .modulex-cagri-kontenjan-madde { display: flex; align-items: flex-start; gap: 12px; }
+  .modulex-cagri-kontenjan-mikon { flex: none; color: --accentInk--; font-size: 24px; }
+  .modulex-cagri-kontenjan-myazi { display: grid; gap: 2px; }
+  .modulex-cagri-kontenjan-myazi strong { font-weight: 700; }
+  .modulex-cagri-kontenjan-myazi small { color: --muted--; font-size: 0.92rem; }
+  .modulex-cagri-kontenjan-not { color: --muted--; font-size: 0.9rem; }
+  .modulex-cagri-kontenjan-saat { display: flex; align-items: center; gap: 8px; color: --muted--; font-size: 0.95rem; }
+  .modulex-cagri-kontenjan-saat .material-symbols-outlined { font-size: 20px; color: --accentInk--; }
+  .modulex-cagri-kontenjan-metin { max-width: 62ch; }
+
+  :is([lang="ar"], [lang="fa"], [lang="he"], [lang="ur"]) .modulex-cagri-kontenjan :is(.modulex-cagri-kontenjan-baslik, .modulex-cagri-kontenjan-ust, h3, h4, strong) { letter-spacing: 0; }
+  :is([lang="ar"], [lang="fa"], [lang="he"], [lang="ur"]) .modulex-cagri-kontenjan-baslik { line-height: 1.35; }
+  @media (max-width: 768px) {
+    .modulex-cagri-kontenjan { padding-inline: 16px; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .modulex-cagri-kontenjan *, .modulex-cagri-kontenjan *::before, .modulex-cagri-kontenjan *::after { animation: none !important; transition: none !important; }
+  }
+</style>
+<script>
+  (() => {
+    const P = "modulex-cagri-kontenjan";
+    const az = !!(window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches);
+    const gozlem = (s, P, az) => {
+        const gor = () => s.classList.add(P + "--gor");
+        s.classList.add(P + "--hazir");
+        if (az || !("IntersectionObserver" in window)) { gor(); return; }
+        const io = new IntersectionObserver((gs) => {
+          gs.forEach((g) => { if (g.isIntersecting) { gor(); io.disconnect(); } });
+        }, { threshold: 0.15 });
+        io.observe(s);
+      };
+    const sayac = (s, P, az) => {
+        const el = [...s.querySelectorAll("[data-hedef]")];
+        if (!el.length || az || !("IntersectionObserver" in window)) return;
+        const dl = document.documentElement.lang || undefined;
+        const oynat = () => el.forEach((e) => {
+          const h = Number(e.dataset.hedef);
+          const od = Number(e.dataset.ondalik) || 0;
+          const son = e.textContent;
+          if (!Number.isFinite(h)) return;
+          let f;
+          try { f = new Intl.NumberFormat(dl, { minimumFractionDigits: od, maximumFractionDigits: od }); } catch (x) { return; }
+          const t0 = performance.now();
+          const adim = (t) => {
+            const p = Math.min(1, (t - t0) / 1300);
+            e.textContent = p < 1 ? f.format(h * (1 - Math.pow(1 - p, 3))) : son;
+            if (p < 1) requestAnimationFrame(adim);
+          };
+          requestAnimationFrame(adim);
+        });
+        const io = new IntersectionObserver((gs) => {
+          gs.forEach((g) => { if (g.isIntersecting) { oynat(); io.disconnect(); } });
+        }, { threshold: 0.3 });
+        io.observe(s);
+      };
+    document.querySelectorAll("." + P).forEach((s) => {
+      if (s.dataset.fbHazir) return;
+      s.dataset.fbHazir = "1";
+      gozlem(s, P, az);
+      sayac(s, P, az);
+    });
+  })();
+</script>

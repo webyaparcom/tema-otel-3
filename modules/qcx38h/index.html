@@ -1,0 +1,68 @@
+<section class="modulex-tanitim-kenar-serit{{fbsinif}}" {{fbetiket}}>
+  <div class="modulex-tanitim-kenar-serit-ic">
+    {{fbbas}}
+    {{fbgovde}}
+  </div>
+</section>
+
+<style>
+  /* tanitim-kenar-serit — Görsel ikincil (madalyon), tipografi ve renk şeridi baskın; manifesto/beyan tonunda, metin ağırlıklı tanıtım. */
+  .modulex-tanitim-kenar-serit { box-sizing: border-box; width: 100%; padding: --bosluk-- 20px; background: --bg--; color: --text--; font-size: 1rem; line-height: 1.6; font-family: var(--mx-font-sans, inherit); overflow-wrap: break-word; }
+  .modulex-tanitim-kenar-serit *, .modulex-tanitim-kenar-serit *::before, .modulex-tanitim-kenar-serit *::after { box-sizing: border-box; }
+  /* ham/css.css «* { font-size: 14px }» kalıtımı keser — modül içinde boyut üstten gelsin (ikon yazı tipi hariç) */
+  .modulex-tanitim-kenar-serit :where(*:not(.material-symbols-outlined)) { font-size: inherit; }
+  /* aynı «*» kuralı font-weight 400 · line-height 1.2 · font-family de basar — modül içinde kalıtım */
+  .modulex-tanitim-kenar-serit :where(*:not(.material-symbols-outlined)) { font-weight: inherit; line-height: inherit; font-family: inherit; }
+  .modulex-tanitim-kenar-serit :where(h2, h3, h4, p, ul, ol, li, figure, blockquote, dl, dd) { margin: 0; }
+  .modulex-tanitim-kenar-serit :where(ul, ol) { padding: 0; list-style: none; }
+  .modulex-tanitim-kenar-serit img { display: block; max-width: 100%; }
+  /* <img width height> öznitelik yüksekliği CSS aspect-ratio'yu ezer — sıfır özgüllükle auto (modül sınıfının height'ı yine kazanır) */
+  :where(.modulex-tanitim-kenar-serit) img { height: auto; }
+  .modulex-tanitim-kenar-serit [hidden] { display: none !important; }
+  .modulex-tanitim-kenar-serit :where(a, button, summary, [data-cevir]) { cursor: pointer; }
+  .modulex-tanitim-kenar-serit :where(a, button, summary, [tabindex]):focus-visible { outline: 3px solid --accent--; outline-offset: 3px; }
+  .modulex-tanitim-kenar-serit-ic { max-width: --max--; margin-inline: auto; }
+  .modulex-tanitim-kenar-serit-bas { display: grid; gap: 12px; margin-block-end: clamp(32px, 4vw, 52px); }
+  .modulex-tanitim-kenar-serit--bassiz .modulex-tanitim-kenar-serit-bas { display: none; }
+  .modulex-tanitim-kenar-serit-ust { color: --accentInk--; font-size: 0.8rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; }
+  .modulex-tanitim-kenar-serit-baslik { font-family: var(--mx-font-heading, inherit); font-size: clamp(1.8rem, 3.4vw, 2.8rem); font-weight: 750; letter-spacing: -0.025em; line-height: 1.1; }
+  .modulex-tanitim-kenar-serit-metin { color: --muted--; font-size: 1.05rem; line-height: 1.7; }
+  .modulex-tanitim-kenar-serit-cta { display: flex; flex-wrap: wrap; gap: 12px; margin-block-start: 8px; }
+  .modulex-tanitim-kenar-serit-dugme { display: inline-flex; align-items: center; gap: 8px; min-height: 48px; padding: 12px 22px; border: 2px solid --accent--; border-radius: 999px; background: --accent--; color: --accentText--; font-weight: 700; text-decoration: none; transition: transform 0.25s ease, background 0.25s ease, color 0.25s ease; }
+  .modulex-tanitim-kenar-serit-dugme:hover { transform: translateY(-2px); }
+  .modulex-tanitim-kenar-serit-dugme--ikincil { background: transparent; color: --text--; border-color: --cizgi--; }
+  .modulex-tanitim-kenar-serit-dugme--ikincil:hover { border-color: --accent--; }
+  .modulex-tanitim-kenar-serit-dugme .material-symbols-outlined { font-size: 20px; }
+
+  .modulex-tanitim-kenar-serit-blok { position: relative; display: grid; gap: 22px; padding-block: 12px; padding-inline-start: clamp(22px, 4vw, 48px); border-inline-start: 12px solid --accent--; }
+  .modulex-tanitim-kenar-serit-blok--gorsel { padding-inline-end: clamp(0px, 16vw, 230px); }
+  .modulex-tanitim-kenar-serit-baslik { font-size: clamp(2rem, 4.6vw, 3.6rem); letter-spacing: -0.035em; text-wrap: balance; }
+  .modulex-tanitim-kenar-serit-sutun { columns: 2 280px; column-gap: 40px; }
+  .modulex-tanitim-kenar-serit-madalyon { position: absolute; inset-block-start: 0; inset-inline-end: 0; width: clamp(120px, 14vw, 200px); margin: 0; }
+  .modulex-tanitim-kenar-serit-gorsel { width: 100%; aspect-ratio: 1; object-fit: cover; border: 4px solid --accent--; border-radius: 50%; padding: 6px; background-color: --bg--; transition: transform 0.5s ease; }
+  .modulex-tanitim-kenar-serit-madalyon:hover .modulex-tanitim-kenar-serit-gorsel { transform: rotate(-6deg) scale(1.03); }
+  .modulex-tanitim-kenar-serit-maddeler { display: flex; flex-wrap: wrap; gap: 0; margin-block-start: 6px; }
+  .modulex-tanitim-kenar-serit-madde { display: flex; flex: 1 1 200px; gap: 12px; padding: 14px 22px; }
+  .modulex-tanitim-kenar-serit-madde:first-child { padding-inline-start: 0; }
+  .modulex-tanitim-kenar-serit-madde + .modulex-tanitim-kenar-serit-madde { border-inline-start: 1px solid --cizgi--; }
+  .modulex-tanitim-kenar-serit-mikon { flex: none; color: --accentInk--; font-size: 26px; }
+  @media (max-width: 768px) {
+    .modulex-tanitim-kenar-serit-blok--gorsel { padding-inline-end: 0; }
+    .modulex-tanitim-kenar-serit-madalyon { position: static; width: 120px; }
+    .modulex-tanitim-kenar-serit-madde { flex-basis: 100%; padding-inline: 0; }
+    .modulex-tanitim-kenar-serit-madde + .modulex-tanitim-kenar-serit-madde { border-inline-start: 0; border-block-start: 1px solid --cizgi--; }
+  }
+  .modulex-tanitim-kenar-serit-bag { color: inherit; text-decoration: none; }
+  .modulex-tanitim-kenar-serit-bag:hover { text-decoration: underline; text-underline-offset: 4px; }
+  .modulex-tanitim-kenar-serit-mbaslik { font-size: 1.05rem; font-weight: 700; }
+  .modulex-tanitim-kenar-serit-mmetin { color: --muted--; font-size: 0.95rem; }
+
+  :is([lang="ar"], [lang="fa"], [lang="he"], [lang="ur"]) .modulex-tanitim-kenar-serit :is(.modulex-tanitim-kenar-serit-baslik, .modulex-tanitim-kenar-serit-ust, h3, h4, strong) { letter-spacing: 0; }
+  :is([lang="ar"], [lang="fa"], [lang="he"], [lang="ur"]) .modulex-tanitim-kenar-serit-baslik { line-height: 1.35; }
+  @media (max-width: 768px) {
+    .modulex-tanitim-kenar-serit { padding-inline: 16px; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .modulex-tanitim-kenar-serit *, .modulex-tanitim-kenar-serit *::before, .modulex-tanitim-kenar-serit *::after { animation: none !important; transition: none !important; }
+  }
+</style>
