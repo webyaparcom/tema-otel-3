@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Otelimiz",
+    "en": "Our hotel",
+    "ar": "فندقنا"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 1,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "qcx38h",
+      "f3kunh"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Avlumuz ve konuk puanları (kurgusal).",
+    "en": "Our courtyard and guest ratings (fictional).",
+    "ar": "فناؤنا وتقييمات الضيوف (افتراضية)."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Otelimiz",
+    "en": "Our hotel",
+    "ar": "فندقنا"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-11-16T16:10:42.306Z",
+  "date": "2026-10-30"
+}

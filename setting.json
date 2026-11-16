@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Begonvil Otel: Bozcaada’da begonvilli avlusu, havuzu ve zeytin bahçesiyle 18 odalı kurgusal ada oteli; odalar, konuk puanları ve konaklama talebi. Demo site; içerik kurgusaldır.",
+    "en": "Begonvil Hotel: a fictional 18-room island hotel on Bozcaada with a bougainvillea courtyard, pool and olive garden; rooms, guest ratings and stay requests. Demo site; content is fictional.",
+    "ar": "فندق بيغونفيل: فندق جزيرة افتراضي من 18 غرفة في بوزجاادا بفناء من الجهنمية ومسبح وبستان زيتون؛ الغرف وتقييمات الضيوف وطلب الإقامة. موقع تجريبي؛ المحتوى افتراضي."
+  },
+  "keyword": {
+    "tr": "ada oteli, butik otel, Bozcaada, konaklama, havuzlu otel",
+    "en": "island hotel, boutique hotel, Bozcaada, accommodation, hotel with pool",
+    "ar": "فندق جزيرة، فندق بوتيك، بوزجاادا، إقامة، فندق بمسبح"
+  },
+  "category": "Kurumsal",
+  "name": "Begonvil Otel",
+  "domain": "otel-3.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "nunito",
+    "heading": "dm-serif-display",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-naskh-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#9D2A5E",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "11px",
+    "--mx-radius-md": "18px",
+    "--mx-radius-lg": "25px",
+    "--mx-radius-xl": "34px"
+  },
+  "icon": "icon.png"
+}
