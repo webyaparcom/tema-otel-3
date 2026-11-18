@@ -3,17 +3,23 @@
   "name": {
     "tr": "Rezervasyon",
     "en": "Booking",
-    "ar": "الحجز"
+    "ar": "الحجز",
+    "de": "Reservierung",
+    "ru": "Бронирование"
   },
   "description": {
     "tr": "Konaklama talep formu (demo).",
     "en": "Stay request form (demo).",
-    "ar": "نموذج طلب إقامة (تجريبي)."
+    "ar": "نموذج طلب إقامة (تجريبي).",
+    "de": "Formular für Unterkunftsanfragen (Demo).",
+    "ru": "Форма запроса на размещение (демо)."
   },
   "keyword": {
     "tr": "rezervasyon",
     "en": "booking",
-    "ar": "حجز"
+    "ar": "حجز",
+    "de": "Reservierung",
+    "ru": "бронирование"
   },
   "path": "teklif-al",
   "icon": "hotel",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Rezervasyon",
     "en": "Booking",
-    "ar": "الحجز"
+    "ar": "الحجز",
+    "de": "Reservierung",
+    "ru": "Бронирование"
   },
   "date": "2026-11-16T16:03:24.884Z",
   "update": "2026-11-16T16:10:42.313Z"

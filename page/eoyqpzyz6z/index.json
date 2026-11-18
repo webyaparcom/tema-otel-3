@@ -3,17 +3,23 @@
   "name": {
     "tr": "Odalar",
     "en": "Rooms",
-    "ar": "الغرف"
+    "ar": "الغرف",
+    "de": "Zimmer",
+    "ru": "Номера"
   },
   "description": {
     "tr": "Odalar, havuz, bahçe ve sofra; görseller temsilîdir.",
     "en": "Rooms, pool, garden and table; images are representative.",
-    "ar": "الغرف والمسبح والحديقة والمائدة؛ الصور تمثيلية."
+    "ar": "الغرف والمسبح والحديقة والمائدة؛ الصور تمثيلية.",
+    "de": "Zimmer, Pool, Garten und Restaurant; die Bilder sind symbolisch.",
+    "ru": "Номера, бассейн, сад и ресторан; изображения иллюстративные."
   },
   "keyword": {
     "tr": "Odalar",
     "en": "Rooms",
-    "ar": "الغرف"
+    "ar": "الغرف",
+    "de": "Zimmer",
+    "ru": "Номера"
   },
   "path": "hizmetler",
   "icon": "bed",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Odalar",
     "en": "Rooms",
-    "ar": "الغرف"
+    "ar": "الغرف",
+    "de": "Zimmer",
+    "ru": "Номера"
   },
   "date": "2026-11-16T16:03:24.869Z",
   "update": "2026-11-16T16:10:42.303Z"

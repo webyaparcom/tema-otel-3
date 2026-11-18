@@ -3,17 +3,23 @@
   "name": {
     "tr": "İptal koşulları",
     "en": "Cancellation",
-    "ar": "شروط الإلغاء"
+    "ar": "شروط الإلغاء",
+    "de": "Storno",
+    "ru": "Отмена"
   },
   "description": {
     "tr": "İptal, değişiklik ve cayma hakkı bilgisi.",
     "en": "Cancellation, changes and right of withdrawal.",
-    "ar": "الإلغاء والتعديل وحق العدول."
+    "ar": "الإلغاء والتعديل وحق العدول.",
+    "de": "Informationen zu Stornierung, Änderung und Widerrufsrecht.",
+    "ru": "Сведения об отмене, изменении и праве на отказ."
   },
   "keyword": {
     "tr": "iptal koşulları",
     "en": "cancellation terms",
-    "ar": "شروط الإلغاء"
+    "ar": "شروط الإلغاء",
+    "de": "Stornobedingungen",
+    "ru": "условия отмены"
   },
   "path": "sorular",
   "icon": "policy",
@@ -32,7 +38,9 @@
   "title": {
     "tr": "İptal koşulları",
     "en": "Cancellation",
-    "ar": "شروط الإلغاء"
+    "ar": "شروط الإلغاء",
+    "de": "Storno",
+    "ru": "Отмена"
   },
   "date": "2026-11-16T16:03:24.879Z",
   "update": "2026-11-16T16:10:42.309Z"
