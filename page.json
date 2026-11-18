@@ -5,12 +5,16 @@
       "name": {
         "tr": "Odalar",
         "en": "Rooms",
-        "ar": "الغرف"
+        "ar": "الغرف",
+        "de": "Zimmer",
+        "ru": "Номера"
       },
       "description": {
         "tr": "Odalar, havuz, bahçe ve sofra; görseller temsilîdir.",
         "en": "Rooms, pool, garden and table; images are representative.",
-        "ar": "الغرف والمسبح والحديقة والمائدة؛ الصور تمثيلية."
+        "ar": "الغرف والمسبح والحديقة والمائدة؛ الصور تمثيلية.",
+        "de": "Zimmer, Pool, Garten und Restaurant; die Bilder sind symbolisch.",
+        "ru": "Номера, бассейн, сад и ресторан; изображения иллюстративные."
       },
       "path": "hizmetler",
       "icon": "bed",
@@ -30,7 +34,9 @@
       "name": {
         "tr": "Otelimiz",
         "en": "Our hotel",
-        "ar": "فندقنا"
+        "ar": "فندقنا",
+        "de": "Unser Hotel",
+        "ru": "Наш отель"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -51,7 +57,9 @@
       "description": {
         "tr": "Avlumuz ve konuk puanları (kurgusal).",
         "en": "Our courtyard and guest ratings (fictional).",
-        "ar": "فناؤنا وتقييمات الضيوف (افتراضية)."
+        "ar": "فناؤنا وتقييمات الضيوف (افتراضية).",
+        "de": "Unser Innenhof und Gästebewertungen (fiktiv).",
+        "ru": "Наш двор и оценки гостей (вымышленные)."
       }
     },
     {
@@ -59,12 +67,16 @@
       "name": {
         "tr": "İptal koşulları",
         "en": "Cancellation",
-        "ar": "شروط الإلغاء"
+        "ar": "شروط الإلغاء",
+        "de": "Storno",
+        "ru": "Отмена"
       },
       "description": {
         "tr": "İptal, değişiklik ve cayma hakkı bilgisi.",
         "en": "Cancellation, changes and right of withdrawal.",
-        "ar": "الإلغاء والتعديل وحق العدول."
+        "ar": "الإلغاء والتعديل وحق العدول.",
+        "de": "Informationen zu Stornierung, Änderung und Widerrufsrecht.",
+        "ru": "Сведения об отмене, изменении и праве на отказ."
       },
       "path": "sorular",
       "icon": "policy",
@@ -84,12 +96,16 @@
       "name": {
         "tr": "Rezervasyon",
         "en": "Booking",
-        "ar": "الحجز"
+        "ar": "الحجز",
+        "de": "Reservierung",
+        "ru": "Бронирование"
       },
       "description": {
         "tr": "Konaklama talep formu (demo).",
         "en": "Stay request form (demo).",
-        "ar": "نموذج طلب إقامة (تجريبي)."
+        "ar": "نموذج طلب إقامة (تجريبي).",
+        "de": "Formular für Unterkunftsanfragen (Demo).",
+        "ru": "Форма запроса на размещение (демо)."
       },
       "path": "teklif-al",
       "icon": "hotel",
@@ -109,7 +125,9 @@
       "name": {
         "tr": "İletişim",
         "en": "Contact",
-        "ar": "اتصل بنا"
+        "ar": "اتصل بنا",
+        "de": "Kontakt",
+        "ru": "Контакты"
       },
       "status": "play",
       "id": "iletisim",
@@ -130,7 +148,9 @@
       "description": {
         "tr": "Adres, telefon ve çalışma saatleri.",
         "en": "Address, phone and opening hours.",
-        "ar": "العنوان والهاتف وساعات العمل."
+        "ar": "العنوان والهاتف وساعات العمل.",
+        "de": "Adresse, Telefon und Öffnungszeiten.",
+        "ru": "Адрес, телефон и часы работы."
       }
     }
   ],

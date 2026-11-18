@@ -3,17 +3,23 @@
   "name": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "description": {
     "tr": "Misyonumuz",
     "en": "Our mission",
-    "ar": "مهمتنا"
+    "ar": "مهمتنا",
+    "de": "Unsere Mission",
+    "ru": "Наша миссия"
   },
   "keyword": {
     "tr": "Misyon",
     "en": "mission, our mission, corporate responsibility",
-    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية"
+    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "path": "misyon",
   "icon": "flag",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Misyonumuz</h2>\n<p>Adanın yavaş ritmini küçük, sakin ve özenli bir konaklamayla yaşatmak.</p>",
     "en": "<h2>Our mission</h2>\n<p>To keep the island’s slow rhythm alive with a small, calm and careful stay.</p>",
-    "ar": "<h2>مهمتنا</h2>\n<p>أن نُبقي إيقاع الجزيرة الهادئ حيًا بإقامة صغيرة وهادئة ومتأنية.</p>"
+    "ar": "<h2>مهمتنا</h2>\n<p>أن نُبقي إيقاع الجزيرة الهادئ حيًا بإقامة صغيرة وهادئة ومتأنية.</p>",
+    "de": "<h2>Unsere Mission</h2>\n<p>Den langsamen Rhythmus der Insel mit einem kleinen, ruhigen und sorgfältigen Aufenthalt lebendig halten.</p>",
+    "ru": "<h2>Наша миссия</h2>\n<p>Сохранить медленный ритм острова, предлагая небольшой, спокойный и продуманный отдых.</p>"
   },
   "title": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "date": "2026-11-16T16:03:24.733Z",
   "update": "2026-11-16T16:10:42.321Z",

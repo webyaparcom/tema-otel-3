@@ -2,7 +2,9 @@
   "name": {
     "tr": "Otelimiz",
     "en": "Our hotel",
-    "ar": "فندقنا"
+    "ar": "فندقنا",
+    "de": "Unser Hotel",
+    "ru": "Наш отель"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Avlumuz ve konuk puanları (kurgusal).",
     "en": "Our courtyard and guest ratings (fictional).",
-    "ar": "فناؤنا وتقييمات الضيوف (افتراضية)."
+    "ar": "فناؤنا وتقييمات الضيوف (افتراضية).",
+    "de": "Unser Innenhof und Gästebewertungen (fiktiv).",
+    "ru": "Наш двор и оценки гостей (вымышленные)."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Otelimiz",
     "en": "Our hotel",
-    "ar": "فندقنا"
+    "ar": "فندقنا",
+    "de": "Unser Hotel",
+    "ru": "Наш отель"
   },
   "keyword": {
     "tr": "hakkımızda",
     "en": "about",
-    "ar": "من نحن"
+    "ar": "من نحن",
+    "de": "Über uns",
+    "ru": "О нас"
   },
   "text": {},
   "update": "2026-11-16T16:10:42.306Z",

@@ -14,28 +14,38 @@
         "ariaLabel": {
           "tr": "Demo site uyarısı",
           "en": "Demo site notice",
-          "ar": "تنبيه الموقع التجريبي"
+          "ar": "تنبيه الموقع التجريبي",
+          "de": "Hinweis zur Demo-Website",
+          "ru": "Предупреждение о демонстрационном сайте"
         },
         "text": {
           "tr": "Bu bir demo sitedir — içerik kurgusaldır, ödeme alınmaz",
           "en": "This is a demo site — the content is fictional and no payment is taken",
-          "ar": "هذا موقع تجريبي — المحتوى افتراضي ولا يتم تحصيل أي مدفوعات"
+          "ar": "هذا موقع تجريبي — المحتوى افتراضي ولا يتم تحصيل أي مدفوعات",
+          "de": "Dies ist eine Demo-Website — die Inhalte sind fiktiv, es wird keine Zahlung entgegengenommen",
+          "ru": "Это демо-сайт — контент вымышленный, оплата не принимается"
         },
         "ctaText": {
           "tr": "Bu temayı iste",
           "en": "Get this theme",
-          "ar": "اطلب هذا القالب"
+          "ar": "اطلب هذا القالب",
+          "de": "Dieses Thema anfordern",
+          "ru": "Заказать эту тему"
         },
         "newTabText": {
           "tr": "(yeni sekmede açılır)",
           "en": "(opens in a new tab)",
-          "ar": "(يفتح في علامة تبويب جديدة)"
+          "ar": "(يفتح في علامة تبويب جديدة)",
+          "de": "(öffnet in einem neuen Tab)",
+          "ru": "(открывается в новой вкладке)"
         },
         "girisHref": "",
         "girisText": {
           "tr": "Üye Girişi",
           "en": "Login",
-          "ar": "تسجيل الدخول"
+          "ar": "تسجيل الدخول",
+          "de": "Mitglieder-Login",
+          "ru": "Вход для участников"
         },
         "hataBildir": "https://webyapar.com/api/portal/tema-hata.js"
       },
@@ -78,28 +88,38 @@
         "badge": {
           "tr": "Emlak",
           "en": "Real estate",
-          "ar": "عقارات"
+          "ar": "عقارات",
+          "de": "Immobilien",
+          "ru": "Недвижимость"
         },
         "title": {
           "tr": "Hayalinizdeki yeri birlikte bulalım",
           "en": "Let's find your dream home together",
-          "ar": "لنجد معًا المكان الذي تحلم به"
+          "ar": "لنجد معًا المكان الذي تحلم به",
+          "de": "Finden wir gemeinsam Ihren Traumort",
+          "ru": "Давайте вместе найдём место вашей мечты"
         },
         "description": {
           "tr": "Satılık ve kiralık seçkin portföy, şeffaf süreç, her ilanda yetki belgesi numarası.",
           "en": "A curated sale and rental portfolio, a transparent process, a permit number on every listing.",
-          "ar": "محفظة مختارة للبيع والإيجار وعملية شفافة ورقم ترخيص في كل إعلان."
+          "ar": "محفظة مختارة للبيع والإيجار وعملية شفافة ورقم ترخيص في كل إعلان.",
+          "de": "Ausgewählte Immobilien zum Kauf und zur Miete, transparenter Ablauf, bei jedem Inserat die Nummer der Vollmacht.",
+          "ru": "Избранный портфель недвижимости на продажу и в аренду, прозрачный процесс, номер разрешительного документа в каждом объявлении."
         },
         "btn1Text": {
           "tr": "İlanları gör",
           "en": "Browse listings",
-          "ar": "تصفح الإعلانات"
+          "ar": "تصفح الإعلانات",
+          "de": "Anzeigen durchsuchen",
+          "ru": "Просмотреть объявления"
         },
         "btn1Url": "ilanlar",
         "btn2Text": {
           "tr": "Değerleme",
           "en": "Valuation",
-          "ar": "التقييم"
+          "ar": "التقييم",
+          "de": "Bewertung",
+          "ru": "Оценка"
         },
         "btn2Url": "iletisim"
       },
@@ -129,127 +149,177 @@
         "title": {
           "tr": "Emlak İlanları",
           "en": "Property Listings",
-          "ar": "إعلانات العقارات"
+          "ar": "إعلانات العقارات",
+          "de": "Immobilienangebote",
+          "ru": "Объявления о недвижимости"
         },
         "subtitle": {
           "tr": "Satılık ve kiralık ilanları süzün, sıralayın ve karşılaştırın.",
           "en": "Filter, sort and compare properties for sale and for rent.",
-          "ar": "صفِّ العقارات المعروضة للبيع والإيجار ورتّبها وقارن بينها."
+          "ar": "صفِّ العقارات المعروضة للبيع والإيجار ورتّبها وقارن بينها.",
+          "de": "Objekte zum Kauf und zur Miete filtern, sortieren und vergleichen.",
+          "ru": "Фильтруйте, сортируйте и сравнивайте объекты на продажу и в аренду."
         },
         "searchLabel": {
           "tr": "İlan ara",
           "en": "Search listings",
-          "ar": "ابحث في الإعلانات"
+          "ar": "ابحث في الإعلانات",
+          "de": "Inserate suchen",
+          "ru": "Искать объявления"
         },
         "searchPlaceholder": {
           "tr": "Semt veya ilan başlığı…",
           "en": "District or listing title…",
-          "ar": "الحي أو عنوان الإعلان…"
+          "ar": "الحي أو عنوان الإعلان…",
+          "de": "Stadtteil oder Anzeigentitel…",
+          "ru": "Район или заголовок объявления…"
         },
         "dealGroupLabel": {
           "tr": "İşlem türü",
           "en": "Deal type",
-          "ar": "نوع الصفقة"
+          "ar": "نوع الصفقة",
+          "de": "Transaktionstyp",
+          "ru": "Тип сделки"
         },
         "dealAll": {
           "tr": "Tümü",
           "en": "All",
-          "ar": "الكل"
+          "ar": "الكل",
+          "de": "Alle",
+          "ru": "Все"
         },
         "dealSale": {
           "tr": "Satılık",
           "en": "For sale",
-          "ar": "للبيع"
+          "ar": "للبيع",
+          "de": "Zu verkaufen",
+          "ru": "Продам"
         },
         "dealRent": {
           "tr": "Kiralık",
           "en": "For rent",
-          "ar": "للإيجار"
+          "ar": "للإيجار",
+          "de": "Zu vermieten",
+          "ru": "Аренда"
         },
         "filtersTitle": {
           "tr": "Filtreler",
           "en": "Filters",
-          "ar": "التصفية"
+          "ar": "التصفية",
+          "de": "Filter",
+          "ru": "Фильтры"
         },
         "typeTitle": {
           "tr": "Emlak türü",
           "en": "Property type",
-          "ar": "نوع العقار"
+          "ar": "نوع العقار",
+          "de": "Eigentumsart",
+          "ru": "Тип недвижимости"
         },
         "roomsTitle": {
           "tr": "Oda sayısı",
           "en": "Rooms",
-          "ar": "عدد الغرف"
+          "ar": "عدد الغرف",
+          "de": "Zimmerzahl",
+          "ru": "Количество комнат"
         },
         "m2Title": {
           "tr": "Alan (m²)",
           "en": "Area (m²)",
-          "ar": "المساحة (م²)"
+          "ar": "المساحة (م²)",
+          "de": "Fläche (m²)",
+          "ru": "Площадь (м²)"
         },
         "priceTitle": {
           "tr": "Fiyat",
           "en": "Price",
-          "ar": "السعر"
+          "ar": "السعر",
+          "de": "Preis",
+          "ru": "Цена"
         },
         "districtTitle": {
           "tr": "Semt",
           "en": "District",
-          "ar": "الحي"
+          "ar": "الحي",
+          "de": "Stadtviertel",
+          "ru": "Район"
         },
         "districtAll": {
           "tr": "Tüm semtler",
           "en": "All districts",
-          "ar": "كل الأحياء"
+          "ar": "كل الأحياء",
+          "de": "Alle Stadtteile",
+          "ru": "Все районы"
         },
         "minLabel": {
           "tr": "En az",
           "en": "Min",
-          "ar": "الحد الأدنى"
+          "ar": "الحد الأدنى",
+          "de": "Mindestens",
+          "ru": "Минимум"
         },
         "maxLabel": {
           "tr": "En çok",
           "en": "Max",
-          "ar": "الحد الأقصى"
+          "ar": "الحد الأقصى",
+          "de": "Max",
+          "ru": "Макс"
         },
         "m2Unit": {
           "tr": "m²",
           "en": "m²",
-          "ar": "م²"
+          "ar": "م²",
+          "de": "m²",
+          "ru": "m²"
         },
         "sortLabel": {
           "tr": "Sırala",
           "en": "Sort by",
-          "ar": "ترتيب حسب"
+          "ar": "ترتيب حسب",
+          "de": "Sortieren",
+          "ru": "Сортировать"
         },
         "sortDate": {
           "tr": "En yeni",
           "en": "Newest",
-          "ar": "الأحدث"
+          "ar": "الأحدث",
+          "de": "Neueste",
+          "ru": "Самые новые"
         },
         "sortPrice": {
           "tr": "Fiyat: düşükten yükseğe",
           "en": "Price: low to high",
-          "ar": "السعر: من الأقل إلى الأعلى"
+          "ar": "السعر: من الأقل إلى الأعلى",
+          "de": "Preis: aufsteigend",
+          "ru": "Цена: по возрастанию"
         },
         "sortPriceDesc": {
           "tr": "Fiyat: yüksekten düşüğe",
           "en": "Price: high to low",
-          "ar": "السعر: من الأعلى إلى الأقل"
+          "ar": "السعر: من الأعلى إلى الأقل",
+          "de": "Preis: absteigend",
+          "ru": "Цена: по убыванию"
         },
         "sortM2": {
           "tr": "Alan: büyükten küçüğe",
           "en": "Area: large to small",
-          "ar": "المساحة: من الأكبر إلى الأصغر"
+          "ar": "المساحة: من الأكبر إلى الأصغر",
+          "de": "Fläche: von groß nach klein",
+          "ru": "Площадь: от большой к малой"
         },
         "sortM2Asc": {
           "tr": "Alan: küçükten büyüğe",
           "en": "Area: small to large",
-          "ar": "المساحة: من الأصغر إلى الأكبر"
+          "ar": "المساحة: من الأصغر إلى الأكبر",
+          "de": "Fläche: von klein nach groß",
+          "ru": "Площадь: от меньшей к большей"
         },
         "resetFilters": {
           "tr": "Filtreleri temizle",
           "en": "Clear filters",
-          "ar": "مسح عوامل التصفية"
+          "ar": "مسح عوامل التصفية",
+          "de": "Filter zurücksetzen",
+          "ru": "Сбросить фильтры"
         },
         "resultCount": {
           "tr": {
@@ -289,62 +359,86 @@
         "noResultTitle": {
           "tr": "Sonuç bulunamadı",
           "en": "No results found",
-          "ar": "لم يتم العثور على نتائج"
+          "ar": "لم يتم العثور على نتائج",
+          "de": "Keine Ergebnisse gefunden",
+          "ru": "Ничего не найдено"
         },
         "noResultText": {
           "tr": "Filtreleri gevşetmeyi veya temizlemeyi deneyin.",
           "en": "Try loosening or clearing your filters.",
-          "ar": "جرّب تخفيف عوامل التصفية أو مسحها."
+          "ar": "جرّب تخفيف عوامل التصفية أو مسحها.",
+          "de": "Versuchen Sie, die Filter zu lockern oder zurückzusetzen.",
+          "ru": "Попробуйте ослабить или сбросить фильтры."
         },
         "pagesLabel": {
           "tr": "Sayfalama",
           "en": "Pagination",
-          "ar": "التنقل بين الصفحات"
+          "ar": "التنقل بين الصفحات",
+          "de": "Seitennavigation",
+          "ru": "Постраничная навигация"
         },
         "prevPage": {
           "tr": "Önceki sayfa",
           "en": "Previous page",
-          "ar": "الصفحة السابقة"
+          "ar": "الصفحة السابقة",
+          "de": "Vorherige Seite",
+          "ru": "Предыдущая страница"
         },
         "nextPage": {
           "tr": "Sonraki sayfa",
           "en": "Next page",
-          "ar": "الصفحة التالية"
+          "ar": "الصفحة التالية",
+          "de": "Nächste Seite",
+          "ru": "Следующая страница"
         },
         "pageN": {
           "tr": "Sayfa {n}",
           "en": "Page {n}",
-          "ar": "الصفحة {n}"
+          "ar": "الصفحة {n}",
+          "de": "Seite {n}",
+          "ru": "Страница {n}"
         },
         "permitLabel": {
           "tr": "Yetki belgesi no",
           "en": "Authorization certificate no.",
-          "ar": "رقم شهادة التفويض"
+          "ar": "رقم شهادة التفويض",
+          "de": "Zulassungsnummer",
+          "ru": "Номер разрешительного документа"
         },
         "permitDemo": {
           "tr": "Yetki belgesi no: örnek ilan (DEMO)",
           "en": "Authorization no.: sample listing (DEMO)",
-          "ar": "رقم شهادة التفويض: إعلان تجريبي (عرض توضيحي)"
+          "ar": "رقم شهادة التفويض: إعلان تجريبي (عرض توضيحي)",
+          "de": "Zulassungsnr.: Beispielanzeige (DEMO)",
+          "ru": "Номер разрешения: пример объявления (ДЕМО)"
         },
         "perMonth": {
           "tr": "/ ay",
           "en": "/ month",
-          "ar": "/ شهريًا"
+          "ar": "/ شهريًا",
+          "de": "/ month",
+          "ru": "/ month"
         },
         "details": {
           "tr": "İlan detayı",
           "en": "View listing",
-          "ar": "تفاصيل الإعلان"
+          "ar": "تفاصيل الإعلان",
+          "de": "Anzeigedetails",
+          "ru": "Детали объявления"
         },
         "dateLabel": {
           "tr": "İlan tarihi",
           "en": "Listed on",
-          "ar": "تاريخ الإعلان"
+          "ar": "تاريخ الإعلان",
+          "de": "Einschaltungsdatum",
+          "ru": "Дата размещения"
         },
         "demoNote": {
           "tr": "Bu sayfadaki ilanlar kurgusaldır; yetki belgesi numaraları örnektir (DEMO).",
           "en": "Listings on this page are fictional; authorization numbers are samples (DEMO).",
-          "ar": "الإعلانات في هذه الصفحة وهمية، وأرقام شهادات التفويض أمثلة فقط (عرض توضيحي)."
+          "ar": "الإعلانات في هذه الصفحة وهمية، وأرقام شهادات التفويض أمثلة فقط (عرض توضيحي).",
+          "de": "Die Anzeigen auf dieser Seite sind fiktiv; die Genehmigungsnummern sind Beispiele (DEMO).",
+          "ru": "Объявления на этой странице вымышлены; номера разрешений приведены в качестве примеров (DEMO)."
         }
       },
       "version": "1.0.0",
@@ -361,27 +455,37 @@
           "daire": {
             "tr": "Daire",
             "en": "Apartment",
-            "ar": "شقة"
+            "ar": "شقة",
+            "de": "Wohnung",
+            "ru": "Квартира"
           },
           "villa": {
             "tr": "Villa",
             "en": "Villa",
-            "ar": "فيلا"
+            "ar": "فيلا",
+            "de": "Villa",
+            "ru": "Villa"
           },
           "rezidans": {
             "tr": "Rezidans",
             "en": "Residence",
-            "ar": "مجمّع سكني"
+            "ar": "مجمّع سكني",
+            "de": "Residenz",
+            "ru": "Резиденция"
           },
           "arsa": {
             "tr": "Arsa",
             "en": "Land",
-            "ar": "أرض"
+            "ar": "أرض",
+            "de": "Grundstück",
+            "ru": "Участок"
           },
           "isyeri": {
             "tr": "İşyeri",
             "en": "Commercial",
-            "ar": "محل تجاري"
+            "ar": "محل تجاري",
+            "de": "Arbeitsplatz",
+            "ru": "Место работы"
           }
         },
         "listings": [
@@ -390,7 +494,9 @@
             "title": {
               "tr": "Deniz manzaralı 3+1 daire",
               "en": "3+1 apartment with sea view",
-              "ar": "شقة 3+1 بإطلالة بحرية"
+              "ar": "شقة 3+1 بإطلالة بحرية",
+              "de": "3+1-Wohnung mit Meerblick",
+              "ru": "Квартира 3+1 с видом на море"
             },
             "deal": "sale",
             "type": "daire",
@@ -401,12 +507,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Kadıköy",
               "en": "Kadikoy",
-              "ar": "قاضي كوي"
+              "ar": "قاضي كوي",
+              "de": "Kadıköy",
+              "ru": "Кадыкёй"
             },
             "img": [],
             "permitNo": "DEMO-34-0001",
@@ -415,7 +525,9 @@
             "badge": {
               "tr": "Yeni",
               "en": "New",
-              "ar": "جديد"
+              "ar": "جديد",
+              "de": "Neu",
+              "ru": "Новинка"
             }
           },
           {
@@ -423,7 +535,9 @@
             "title": {
               "tr": "Bahçe katı 2+1 kiralık daire",
               "en": "2+1 garden-floor apartment for rent",
-              "ar": "شقة 2+1 في الطابق الأرضي مع حديقة للإيجار"
+              "ar": "شقة 2+1 في الطابق الأرضي مع حديقة للإيجار",
+              "de": "2+1-Mietwohnung im Gartengeschoss",
+              "ru": "Квартира 2+1 в аренду на садовом этаже"
             },
             "deal": "rent",
             "type": "daire",
@@ -434,12 +548,16 @@
             "city": {
               "tr": "Ankara",
               "en": "Ankara",
-              "ar": "أنقرة"
+              "ar": "أنقرة",
+              "de": "Ankara",
+              "ru": "Ankara"
             },
             "district": {
               "tr": "Çankaya",
               "en": "Cankaya",
-              "ar": "تشانكايا"
+              "ar": "تشانكايا",
+              "de": "Çankaya",
+              "ru": "Чанкая"
             },
             "img": [],
             "permitNo": "DEMO-06-0002",
@@ -451,7 +569,9 @@
             "title": {
               "tr": "Havuzlu müstakil villa",
               "en": "Detached villa with pool",
-              "ar": "فيلا مستقلة مع مسبح"
+              "ar": "فيلا مستقلة مع مسبح",
+              "de": "Freistehende Villa mit Pool",
+              "ru": "Отдельно стоящая вилла с бассейном"
             },
             "deal": "sale",
             "type": "villa",
@@ -462,12 +582,16 @@
             "city": {
               "tr": "Muğla",
               "en": "Mugla",
-              "ar": "موغلا"
+              "ar": "موغلا",
+              "de": "Muğla",
+              "ru": "Мугла"
             },
             "district": {
               "tr": "Bodrum",
               "en": "Bodrum",
-              "ar": "بودروم"
+              "ar": "بودروم",
+              "de": "Bodrum",
+              "ru": "Bodrum"
             },
             "img": [],
             "permitNo": "DEMO-48-0003",
@@ -479,7 +603,9 @@
             "title": {
               "tr": "Eşyalı 1+1 kiralık daire",
               "en": "Furnished 1+1 apartment for rent",
-              "ar": "شقة 1+1 مفروشة للإيجار"
+              "ar": "شقة 1+1 مفروشة للإيجار",
+              "de": "Möblierte 1+1-Wohnung zur Miete",
+              "ru": "Меблированная квартира 1+1 в аренду"
             },
             "deal": "rent",
             "type": "daire",
@@ -490,12 +616,16 @@
             "city": {
               "tr": "İzmir",
               "en": "Izmir",
-              "ar": "إزمير"
+              "ar": "إزمير",
+              "de": "İzmir",
+              "ru": "Измир"
             },
             "district": {
               "tr": "Karşıyaka",
               "en": "Karsiyaka",
-              "ar": "قارشيياكا"
+              "ar": "قارشيياكا",
+              "de": "Karşıyaka",
+              "ru": "Каршияка"
             },
             "img": [],
             "permitNo": "DEMO-35-0004",
@@ -507,7 +637,9 @@
             "title": {
               "tr": "İmarlı satılık arsa",
               "en": "Zoned plot for sale",
-              "ar": "أرض مخططة للبيع"
+              "ar": "أرض مخططة للبيع",
+              "de": "Baugrundstück mit Bebauungsplan zu verkaufen",
+              "ru": "Участок под застройку на продажу"
             },
             "deal": "sale",
             "type": "arsa",
@@ -518,12 +650,16 @@
             "city": {
               "tr": "İzmir",
               "en": "Izmir",
-              "ar": "إزمير"
+              "ar": "إزمير",
+              "de": "İzmir",
+              "ru": "Измир"
             },
             "district": {
               "tr": "Urla",
               "en": "Urla",
-              "ar": "أورلا"
+              "ar": "أورلا",
+              "de": "Urla",
+              "ru": "Urla"
             },
             "img": [],
             "permitNo": "DEMO-35-0005",
@@ -535,7 +671,9 @@
             "title": {
               "tr": "Cadde üstü kiralık dükkân",
               "en": "Street-front shop for rent",
-              "ar": "محل على الشارع الرئيسي للإيجار"
+              "ar": "محل على الشارع الرئيسي للإيجار",
+              "de": "Ladenlokal an der Hauptstraße zu vermieten",
+              "ru": "Магазин на главной улице в аренду"
             },
             "deal": "rent",
             "type": "isyeri",
@@ -546,12 +684,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Şişli",
               "en": "Sisli",
-              "ar": "شيشلي"
+              "ar": "شيشلي",
+              "de": "Şişli",
+              "ru": "Шишли"
             },
             "img": [],
             "permitNo": "DEMO-34-0006",
@@ -563,7 +705,9 @@
             "title": {
               "tr": "Site içinde 2+1 daire",
               "en": "2+1 apartment in a gated complex",
-              "ar": "شقة 2+1 داخل مجمع سكني مسوّر"
+              "ar": "شقة 2+1 داخل مجمع سكني مسوّر",
+              "de": "2+1 Wohnung in einer Wohnanlage",
+              "ru": "Квартира 2+1 в закрытом комплексе"
             },
             "deal": "sale",
             "type": "daire",
@@ -574,12 +718,16 @@
             "city": {
               "tr": "Bursa",
               "en": "Bursa",
-              "ar": "بورصة"
+              "ar": "بورصة",
+              "de": "Bursa",
+              "ru": "Bursa"
             },
             "district": {
               "tr": "Nilüfer",
               "en": "Nilufer",
-              "ar": "نيلوفر"
+              "ar": "نيلوفر",
+              "de": "Nilüfer",
+              "ru": "Nilüfer"
             },
             "img": [],
             "permitNo": "DEMO-16-0007",
@@ -591,7 +739,9 @@
             "title": {
               "tr": "Merkezi konumda 1+1 rezidans",
               "en": "1+1 residence in a central location",
-              "ar": "وحدة 1+1 في مجمّع سكني بموقع مركزي"
+              "ar": "وحدة 1+1 في مجمّع سكني بموقع مركزي",
+              "de": "1+1-Residenz in zentraler Lage",
+              "ru": "Резиденция 1+1 в центральном районе"
             },
             "deal": "sale",
             "type": "rezidans",
@@ -602,12 +752,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Beşiktaş",
               "en": "Besiktas",
-              "ar": "بشيكتاش"
+              "ar": "بشيكتاش",
+              "de": "Beşiktaş",
+              "ru": "Бешикташ"
             },
             "img": [],
             "permitNo": "DEMO-34-0008",
@@ -642,7 +796,9 @@
           "label": {
             "tr": "Tamamlanan Proje",
             "en": "Completed Projects",
-            "ar": "مشروع منجز"
+            "ar": "مشروع منجز",
+            "de": "Abgeschlossene Projekte",
+            "ru": "Завершённые проекты"
           },
           "icon": "task_alt"
         },
@@ -652,7 +808,9 @@
           "label": {
             "tr": "Mutlu Müşteri",
             "en": "Happy Customers",
-            "ar": "عميل سعيد"
+            "ar": "عميل سعيد",
+            "de": "Zufriedene Kunden",
+            "ru": "Довольные клиенты"
           },
           "icon": "sentiment_satisfied"
         },
@@ -662,7 +820,9 @@
           "label": {
             "tr": "Yıllık Deneyim",
             "en": "Years of Experience",
-            "ar": "سنوات من الخبرة"
+            "ar": "سنوات من الخبرة",
+            "de": "Jahre Erfahrung",
+            "ru": "Лет опыта"
           },
           "icon": "workspace_premium"
         },
@@ -672,7 +832,9 @@
           "label": {
             "tr": "Destek",
             "en": "Support",
-            "ar": "الدعم"
+            "ar": "الدعم",
+            "de": "Support",
+            "ru": "Поддержка"
           },
           "icon": "support_agent"
         }
@@ -696,17 +858,23 @@
         "badge": {
           "tr": "Ekip",
           "en": "Team",
-          "ar": "الفريق"
+          "ar": "الفريق",
+          "de": "Team",
+          "ru": "Команда"
         },
         "title": {
           "tr": "Danışmanlarımız",
           "en": "Our advisors",
-          "ar": "مستشارونا"
+          "ar": "مستشارونا",
+          "de": "Unsere Berater",
+          "ru": "Наши консультанты"
         },
         "description": {
           "tr": "Alanında deneyimli ekibimiz projelerinize değer katmak için burada.",
           "en": "Our experienced team is here to add value to your projects.",
-          "ar": "فريقنا ذو الخبرة هنا ليضيف قيمة إلى مشاريعك."
+          "ar": "فريقنا ذو الخبرة هنا ليضيف قيمة إلى مشاريعك.",
+          "de": "Unser erfahrenes Team ist hier, um Ihren Projekten Mehrwert zu verleihen.",
+          "ru": "Наша опытная команда готова принести пользу вашим проектам."
         },
         "accentText": "#ffffff"
       },
@@ -718,12 +886,16 @@
           "role": {
             "tr": "Kurucu / CEO",
             "en": "Founder / CEO",
-            "ar": "المؤسس / الرئيس التنفيذي"
+            "ar": "المؤسس / الرئيس التنفيذي",
+            "de": "Gründer / CEO",
+            "ru": "Основатель / CEO"
           },
           "bio": {
             "tr": "10+ yıllık sektör deneyimi ile strateji ve yönetim.",
             "en": "Strategy and management with 10+ years of industry experience.",
-            "ar": "الاستراتيجية والإدارة بخبرة تتجاوز 10 سنوات في القطاع."
+            "ar": "الاستراتيجية والإدارة بخبرة تتجاوز 10 سنوات في القطاع.",
+            "de": "Strategie und Management mit über 10 Jahren Branchenerfahrung.",
+            "ru": "Стратегия и управление с опытом работы в отрасли более 10 лет."
           },
           "img": ""
         },
@@ -732,12 +904,16 @@
           "role": {
             "tr": "Tasarım Direktörü",
             "en": "Design Director",
-            "ar": "مدير التصميم"
+            "ar": "مدير التصميم",
+            "de": "Design Director",
+            "ru": "Арт-директор"
           },
           "bio": {
             "tr": "Marka kimliği ve kullanıcı deneyimi tasarımı.",
             "en": "Brand identity and user experience design.",
-            "ar": "تصميم هوية العلامة التجارية وتجربة المستخدم."
+            "ar": "تصميم هوية العلامة التجارية وتجربة المستخدم.",
+            "de": "Markenidentität und Gestaltung der Nutzererfahrung.",
+            "ru": "Фирменный стиль и дизайн пользовательского опыта."
           },
           "img": ""
         },
@@ -746,12 +922,16 @@
           "role": {
             "tr": "Yazılım Geliştirici",
             "en": "Software Developer",
-            "ar": "مطوّر برمجيات"
+            "ar": "مطوّر برمجيات",
+            "de": "Softwareentwickler",
+            "ru": "Разработчик программного обеспечения"
           },
           "bio": {
             "tr": "Modern web teknolojileri ile ölçeklenebilir çözümler.",
             "en": "Scalable solutions with modern web technologies.",
-            "ar": "حلول قابلة للتوسّع بتقنيات الويب الحديثة."
+            "ar": "حلول قابلة للتوسّع بتقنيات الويب الحديثة.",
+            "de": "Skalierbare Lösungen mit modernen Webtechnologien.",
+            "ru": "Масштабируемые решения на современных веб-технологиях."
           },
           "img": ""
         }
@@ -796,7 +976,9 @@
         "name": {
           "tr": "Bize Ulaşın",
           "en": "Contact Us",
-          "ar": "تواصل معنا"
+          "ar": "تواصل معنا",
+          "de": "Kontaktieren Sie uns",
+          "ru": "Свяжитесь с нами"
         },
         "margin": "30px 0px 30px 0px",
         "linkcolor": "var(--mx-site-primary, #2563eb)",
@@ -850,33 +1032,45 @@
         "name": {
           "tr": "Hakkımızda",
           "en": "About us",
-          "ar": "من نحن"
+          "ar": "من نحن",
+          "de": "Über uns",
+          "ru": "О нас"
         },
         "description": {
           "tr": "Bu sayfa bir tema örneğidir; içerik demo üretiminde doldurulur.",
           "en": "This page is a theme sample; its content is filled in during demo production.",
-          "ar": "هذه الصفحة نموذج للقالب؛ يُملأ محتواها عند إنتاج العرض التجريبي."
+          "ar": "هذه الصفحة نموذج للقالب؛ يُملأ محتواها عند إنتاج العرض التجريبي.",
+          "de": "Diese Seite ist ein Theme-Beispiel; der Inhalt wird bei der Demo-Erstellung befüllt.",
+          "ru": "Эта страница — пример темы; содержание заполняется при создании демо."
         },
         "name2": {
           "tr": "Vizyonumuz",
           "en": "Our Vision",
-          "ar": "رؤيتنا"
+          "ar": "رؤيتنا",
+          "de": "Unsere Vision",
+          "ru": "Наше видение"
         },
         "spot2": {
           "tr": "Sektörümüzde yenilikçi yaklaşımlarla öncü olmak.",
           "en": "To lead our industry with innovative approaches.",
-          "ar": "أن نكون روّادًا في قطاعنا بأساليب مبتكرة."
+          "ar": "أن نكون روّادًا في قطاعنا بأساليب مبتكرة.",
+          "de": "In unserer Branche mit innovativen Ansätzen führend zu sein.",
+          "ru": "Быть лидером в нашей отрасли благодаря инновационным подходам."
         },
         "icon2": "visibility",
         "name3": {
           "tr": "Misyonumuz",
           "en": "Our Mission",
-          "ar": "مهمتنا"
+          "ar": "مهمتنا",
+          "de": "Unsere Mission",
+          "ru": "Наша миссия"
         },
         "spot3": {
           "tr": "İhtiyaç duyulan çözümleri hızlı ve şeffaf sunmak.",
           "en": "Deliver needed solutions quickly and transparently.",
-          "ar": "تقديم الحلول المطلوبة بسرعة وشفافية."
+          "ar": "تقديم الحلول المطلوبة بسرعة وشفافية.",
+          "de": "Die benötigten Lösungen schnell und transparent bereitstellen.",
+          "ru": "Быстро и прозрачно предлагать необходимые решения."
         },
         "icon3": "flag",
         "img": "index.jpg",
@@ -887,7 +1081,9 @@
         "title": {
           "tr": "Kurumsal",
           "en": "Corporate",
-          "ar": "المؤسسة"
+          "ar": "المؤسسة",
+          "de": "Über uns",
+          "ru": "О нас"
         },
         "stil": ""
       },
@@ -917,127 +1113,177 @@
         "title": {
           "tr": "Emlak İlanları",
           "en": "Property Listings",
-          "ar": "إعلانات العقارات"
+          "ar": "إعلانات العقارات",
+          "de": "Immobilienangebote",
+          "ru": "Объявления о недвижимости"
         },
         "subtitle": {
           "tr": "Satılık ve kiralık ilanları süzün, sıralayın ve karşılaştırın.",
           "en": "Filter, sort and compare properties for sale and for rent.",
-          "ar": "صفِّ العقارات المعروضة للبيع والإيجار ورتّبها وقارن بينها."
+          "ar": "صفِّ العقارات المعروضة للبيع والإيجار ورتّبها وقارن بينها.",
+          "de": "Objekte zum Kauf und zur Miete filtern, sortieren und vergleichen.",
+          "ru": "Фильтруйте, сортируйте и сравнивайте объекты на продажу и в аренду."
         },
         "searchLabel": {
           "tr": "İlan ara",
           "en": "Search listings",
-          "ar": "ابحث في الإعلانات"
+          "ar": "ابحث في الإعلانات",
+          "de": "Inserate suchen",
+          "ru": "Искать объявления"
         },
         "searchPlaceholder": {
           "tr": "Semt veya ilan başlığı…",
           "en": "District or listing title…",
-          "ar": "الحي أو عنوان الإعلان…"
+          "ar": "الحي أو عنوان الإعلان…",
+          "de": "Stadtteil oder Anzeigentitel…",
+          "ru": "Район или заголовок объявления…"
         },
         "dealGroupLabel": {
           "tr": "İşlem türü",
           "en": "Deal type",
-          "ar": "نوع الصفقة"
+          "ar": "نوع الصفقة",
+          "de": "Transaktionstyp",
+          "ru": "Тип сделки"
         },
         "dealAll": {
           "tr": "Tümü",
           "en": "All",
-          "ar": "الكل"
+          "ar": "الكل",
+          "de": "Alle",
+          "ru": "Все"
         },
         "dealSale": {
           "tr": "Satılık",
           "en": "For sale",
-          "ar": "للبيع"
+          "ar": "للبيع",
+          "de": "Zu verkaufen",
+          "ru": "Продам"
         },
         "dealRent": {
           "tr": "Kiralık",
           "en": "For rent",
-          "ar": "للإيجار"
+          "ar": "للإيجار",
+          "de": "Zu vermieten",
+          "ru": "Аренда"
         },
         "filtersTitle": {
           "tr": "Filtreler",
           "en": "Filters",
-          "ar": "التصفية"
+          "ar": "التصفية",
+          "de": "Filter",
+          "ru": "Фильтры"
         },
         "typeTitle": {
           "tr": "Emlak türü",
           "en": "Property type",
-          "ar": "نوع العقار"
+          "ar": "نوع العقار",
+          "de": "Eigentumsart",
+          "ru": "Тип недвижимости"
         },
         "roomsTitle": {
           "tr": "Oda sayısı",
           "en": "Rooms",
-          "ar": "عدد الغرف"
+          "ar": "عدد الغرف",
+          "de": "Zimmerzahl",
+          "ru": "Количество комнат"
         },
         "m2Title": {
           "tr": "Alan (m²)",
           "en": "Area (m²)",
-          "ar": "المساحة (م²)"
+          "ar": "المساحة (م²)",
+          "de": "Fläche (m²)",
+          "ru": "Площадь (м²)"
         },
         "priceTitle": {
           "tr": "Fiyat",
           "en": "Price",
-          "ar": "السعر"
+          "ar": "السعر",
+          "de": "Preis",
+          "ru": "Цена"
         },
         "districtTitle": {
           "tr": "Semt",
           "en": "District",
-          "ar": "الحي"
+          "ar": "الحي",
+          "de": "Stadtviertel",
+          "ru": "Район"
         },
         "districtAll": {
           "tr": "Tüm semtler",
           "en": "All districts",
-          "ar": "كل الأحياء"
+          "ar": "كل الأحياء",
+          "de": "Alle Stadtteile",
+          "ru": "Все районы"
         },
         "minLabel": {
           "tr": "En az",
           "en": "Min",
-          "ar": "الحد الأدنى"
+          "ar": "الحد الأدنى",
+          "de": "Mindestens",
+          "ru": "Минимум"
         },
         "maxLabel": {
           "tr": "En çok",
           "en": "Max",
-          "ar": "الحد الأقصى"
+          "ar": "الحد الأقصى",
+          "de": "Max",
+          "ru": "Макс"
         },
         "m2Unit": {
           "tr": "m²",
           "en": "m²",
-          "ar": "م²"
+          "ar": "م²",
+          "de": "m²",
+          "ru": "m²"
         },
         "sortLabel": {
           "tr": "Sırala",
           "en": "Sort by",
-          "ar": "ترتيب حسب"
+          "ar": "ترتيب حسب",
+          "de": "Sortieren",
+          "ru": "Сортировать"
         },
         "sortDate": {
           "tr": "En yeni",
           "en": "Newest",
-          "ar": "الأحدث"
+          "ar": "الأحدث",
+          "de": "Neueste",
+          "ru": "Самые новые"
         },
         "sortPrice": {
           "tr": "Fiyat: düşükten yükseğe",
           "en": "Price: low to high",
-          "ar": "السعر: من الأقل إلى الأعلى"
+          "ar": "السعر: من الأقل إلى الأعلى",
+          "de": "Preis: aufsteigend",
+          "ru": "Цена: по возрастанию"
         },
         "sortPriceDesc": {
           "tr": "Fiyat: yüksekten düşüğe",
           "en": "Price: high to low",
-          "ar": "السعر: من الأعلى إلى الأقل"
+          "ar": "السعر: من الأعلى إلى الأقل",
+          "de": "Preis: absteigend",
+          "ru": "Цена: по убыванию"
         },
         "sortM2": {
           "tr": "Alan: büyükten küçüğe",
           "en": "Area: large to small",
-          "ar": "المساحة: من الأكبر إلى الأصغر"
+          "ar": "المساحة: من الأكبر إلى الأصغر",
+          "de": "Fläche: von groß nach klein",
+          "ru": "Площадь: от большой к малой"
         },
         "sortM2Asc": {
           "tr": "Alan: küçükten büyüğe",
           "en": "Area: small to large",
-          "ar": "المساحة: من الأصغر إلى الأكبر"
+          "ar": "المساحة: من الأصغر إلى الأكبر",
+          "de": "Fläche: von klein nach groß",
+          "ru": "Площадь: от меньшей к большей"
         },
         "resetFilters": {
           "tr": "Filtreleri temizle",
           "en": "Clear filters",
-          "ar": "مسح عوامل التصفية"
+          "ar": "مسح عوامل التصفية",
+          "de": "Filter zurücksetzen",
+          "ru": "Сбросить фильтры"
         },
         "resultCount": {
           "tr": {
@@ -1077,62 +1323,86 @@
         "noResultTitle": {
           "tr": "Sonuç bulunamadı",
           "en": "No results found",
-          "ar": "لم يتم العثور على نتائج"
+          "ar": "لم يتم العثور على نتائج",
+          "de": "Keine Ergebnisse gefunden",
+          "ru": "Ничего не найдено"
         },
         "noResultText": {
           "tr": "Filtreleri gevşetmeyi veya temizlemeyi deneyin.",
           "en": "Try loosening or clearing your filters.",
-          "ar": "جرّب تخفيف عوامل التصفية أو مسحها."
+          "ar": "جرّب تخفيف عوامل التصفية أو مسحها.",
+          "de": "Versuchen Sie, die Filter zu lockern oder zurückzusetzen.",
+          "ru": "Попробуйте ослабить или сбросить фильтры."
         },
         "pagesLabel": {
           "tr": "Sayfalama",
           "en": "Pagination",
-          "ar": "التنقل بين الصفحات"
+          "ar": "التنقل بين الصفحات",
+          "de": "Seitennavigation",
+          "ru": "Постраничная навигация"
         },
         "prevPage": {
           "tr": "Önceki sayfa",
           "en": "Previous page",
-          "ar": "الصفحة السابقة"
+          "ar": "الصفحة السابقة",
+          "de": "Vorherige Seite",
+          "ru": "Предыдущая страница"
         },
         "nextPage": {
           "tr": "Sonraki sayfa",
           "en": "Next page",
-          "ar": "الصفحة التالية"
+          "ar": "الصفحة التالية",
+          "de": "Nächste Seite",
+          "ru": "Следующая страница"
         },
         "pageN": {
           "tr": "Sayfa {n}",
           "en": "Page {n}",
-          "ar": "الصفحة {n}"
+          "ar": "الصفحة {n}",
+          "de": "Seite {n}",
+          "ru": "Страница {n}"
         },
         "permitLabel": {
           "tr": "Yetki belgesi no",
           "en": "Authorization certificate no.",
-          "ar": "رقم شهادة التفويض"
+          "ar": "رقم شهادة التفويض",
+          "de": "Zulassungsnummer",
+          "ru": "Номер разрешительного документа"
         },
         "permitDemo": {
           "tr": "Yetki belgesi no: örnek ilan (DEMO)",
           "en": "Authorization no.: sample listing (DEMO)",
-          "ar": "رقم شهادة التفويض: إعلان تجريبي (عرض توضيحي)"
+          "ar": "رقم شهادة التفويض: إعلان تجريبي (عرض توضيحي)",
+          "de": "Zulassungsnr.: Beispielanzeige (DEMO)",
+          "ru": "Номер разрешения: пример объявления (ДЕМО)"
         },
         "perMonth": {
           "tr": "/ ay",
           "en": "/ month",
-          "ar": "/ شهريًا"
+          "ar": "/ شهريًا",
+          "de": "/ month",
+          "ru": "/ month"
         },
         "details": {
           "tr": "İlan detayı",
           "en": "View listing",
-          "ar": "تفاصيل الإعلان"
+          "ar": "تفاصيل الإعلان",
+          "de": "Anzeigedetails",
+          "ru": "Детали объявления"
         },
         "dateLabel": {
           "tr": "İlan tarihi",
           "en": "Listed on",
-          "ar": "تاريخ الإعلان"
+          "ar": "تاريخ الإعلان",
+          "de": "Einschaltungsdatum",
+          "ru": "Дата размещения"
         },
         "demoNote": {
           "tr": "Bu sayfadaki ilanlar kurgusaldır; yetki belgesi numaraları örnektir (DEMO).",
           "en": "Listings on this page are fictional; authorization numbers are samples (DEMO).",
-          "ar": "الإعلانات في هذه الصفحة وهمية، وأرقام شهادات التفويض أمثلة فقط (عرض توضيحي)."
+          "ar": "الإعلانات في هذه الصفحة وهمية، وأرقام شهادات التفويض أمثلة فقط (عرض توضيحي).",
+          "de": "Die Anzeigen auf dieser Seite sind fiktiv; die Genehmigungsnummern sind Beispiele (DEMO).",
+          "ru": "Объявления на этой странице вымышлены; номера разрешений приведены в качестве примеров (DEMO)."
         }
       },
       "version": "1.0.0",
@@ -1149,27 +1419,37 @@
           "daire": {
             "tr": "Daire",
             "en": "Apartment",
-            "ar": "شقة"
+            "ar": "شقة",
+            "de": "Wohnung",
+            "ru": "Квартира"
           },
           "villa": {
             "tr": "Villa",
             "en": "Villa",
-            "ar": "فيلا"
+            "ar": "فيلا",
+            "de": "Villa",
+            "ru": "Villa"
           },
           "rezidans": {
             "tr": "Rezidans",
             "en": "Residence",
-            "ar": "مجمّع سكني"
+            "ar": "مجمّع سكني",
+            "de": "Residenz",
+            "ru": "Резиденция"
           },
           "arsa": {
             "tr": "Arsa",
             "en": "Land",
-            "ar": "أرض"
+            "ar": "أرض",
+            "de": "Grundstück",
+            "ru": "Участок"
           },
           "isyeri": {
             "tr": "İşyeri",
             "en": "Commercial",
-            "ar": "محل تجاري"
+            "ar": "محل تجاري",
+            "de": "Arbeitsplatz",
+            "ru": "Место работы"
           }
         },
         "listings": [
@@ -1178,7 +1458,9 @@
             "title": {
               "tr": "Deniz manzaralı 3+1 daire",
               "en": "3+1 apartment with sea view",
-              "ar": "شقة 3+1 بإطلالة بحرية"
+              "ar": "شقة 3+1 بإطلالة بحرية",
+              "de": "3+1-Wohnung mit Meerblick",
+              "ru": "Квартира 3+1 с видом на море"
             },
             "deal": "sale",
             "type": "daire",
@@ -1189,12 +1471,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Kadıköy",
               "en": "Kadikoy",
-              "ar": "قاضي كوي"
+              "ar": "قاضي كوي",
+              "de": "Kadıköy",
+              "ru": "Кадыкёй"
             },
             "img": [],
             "permitNo": "DEMO-34-0001",
@@ -1203,7 +1489,9 @@
             "badge": {
               "tr": "Yeni",
               "en": "New",
-              "ar": "جديد"
+              "ar": "جديد",
+              "de": "Neu",
+              "ru": "Новинка"
             }
           },
           {
@@ -1211,7 +1499,9 @@
             "title": {
               "tr": "Bahçe katı 2+1 kiralık daire",
               "en": "2+1 garden-floor apartment for rent",
-              "ar": "شقة 2+1 في الطابق الأرضي مع حديقة للإيجار"
+              "ar": "شقة 2+1 في الطابق الأرضي مع حديقة للإيجار",
+              "de": "2+1-Mietwohnung im Gartengeschoss",
+              "ru": "Квартира 2+1 в аренду на садовом этаже"
             },
             "deal": "rent",
             "type": "daire",
@@ -1222,12 +1512,16 @@
             "city": {
               "tr": "Ankara",
               "en": "Ankara",
-              "ar": "أنقرة"
+              "ar": "أنقرة",
+              "de": "Ankara",
+              "ru": "Ankara"
             },
             "district": {
               "tr": "Çankaya",
               "en": "Cankaya",
-              "ar": "تشانكايا"
+              "ar": "تشانكايا",
+              "de": "Çankaya",
+              "ru": "Чанкая"
             },
             "img": [],
             "permitNo": "DEMO-06-0002",
@@ -1239,7 +1533,9 @@
             "title": {
               "tr": "Havuzlu müstakil villa",
               "en": "Detached villa with pool",
-              "ar": "فيلا مستقلة مع مسبح"
+              "ar": "فيلا مستقلة مع مسبح",
+              "de": "Freistehende Villa mit Pool",
+              "ru": "Отдельно стоящая вилла с бассейном"
             },
             "deal": "sale",
             "type": "villa",
@@ -1250,12 +1546,16 @@
             "city": {
               "tr": "Muğla",
               "en": "Mugla",
-              "ar": "موغلا"
+              "ar": "موغلا",
+              "de": "Muğla",
+              "ru": "Мугла"
             },
             "district": {
               "tr": "Bodrum",
               "en": "Bodrum",
-              "ar": "بودروم"
+              "ar": "بودروم",
+              "de": "Bodrum",
+              "ru": "Bodrum"
             },
             "img": [],
             "permitNo": "DEMO-48-0003",
@@ -1267,7 +1567,9 @@
             "title": {
               "tr": "Eşyalı 1+1 kiralık daire",
               "en": "Furnished 1+1 apartment for rent",
-              "ar": "شقة 1+1 مفروشة للإيجار"
+              "ar": "شقة 1+1 مفروشة للإيجار",
+              "de": "Möblierte 1+1-Wohnung zur Miete",
+              "ru": "Меблированная квартира 1+1 в аренду"
             },
             "deal": "rent",
             "type": "daire",
@@ -1278,12 +1580,16 @@
             "city": {
               "tr": "İzmir",
               "en": "Izmir",
-              "ar": "إزمير"
+              "ar": "إزمير",
+              "de": "İzmir",
+              "ru": "Измир"
             },
             "district": {
               "tr": "Karşıyaka",
               "en": "Karsiyaka",
-              "ar": "قارشيياكا"
+              "ar": "قارشيياكا",
+              "de": "Karşıyaka",
+              "ru": "Каршияка"
             },
             "img": [],
             "permitNo": "DEMO-35-0004",
@@ -1295,7 +1601,9 @@
             "title": {
               "tr": "İmarlı satılık arsa",
               "en": "Zoned plot for sale",
-              "ar": "أرض مخططة للبيع"
+              "ar": "أرض مخططة للبيع",
+              "de": "Baugrundstück mit Bebauungsplan zu verkaufen",
+              "ru": "Участок под застройку на продажу"
             },
             "deal": "sale",
             "type": "arsa",
@@ -1306,12 +1614,16 @@
             "city": {
               "tr": "İzmir",
               "en": "Izmir",
-              "ar": "إزمير"
+              "ar": "إزمير",
+              "de": "İzmir",
+              "ru": "Измир"
             },
             "district": {
               "tr": "Urla",
               "en": "Urla",
-              "ar": "أورلا"
+              "ar": "أورلا",
+              "de": "Urla",
+              "ru": "Urla"
             },
             "img": [],
             "permitNo": "DEMO-35-0005",
@@ -1323,7 +1635,9 @@
             "title": {
               "tr": "Cadde üstü kiralık dükkân",
               "en": "Street-front shop for rent",
-              "ar": "محل على الشارع الرئيسي للإيجار"
+              "ar": "محل على الشارع الرئيسي للإيجار",
+              "de": "Ladenlokal an der Hauptstraße zu vermieten",
+              "ru": "Магазин на главной улице в аренду"
             },
             "deal": "rent",
             "type": "isyeri",
@@ -1334,12 +1648,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Şişli",
               "en": "Sisli",
-              "ar": "شيشلي"
+              "ar": "شيشلي",
+              "de": "Şişli",
+              "ru": "Шишли"
             },
             "img": [],
             "permitNo": "DEMO-34-0006",
@@ -1351,7 +1669,9 @@
             "title": {
               "tr": "Site içinde 2+1 daire",
               "en": "2+1 apartment in a gated complex",
-              "ar": "شقة 2+1 داخل مجمع سكني مسوّر"
+              "ar": "شقة 2+1 داخل مجمع سكني مسوّر",
+              "de": "2+1 Wohnung in einer Wohnanlage",
+              "ru": "Квартира 2+1 в закрытом комплексе"
             },
             "deal": "sale",
             "type": "daire",
@@ -1362,12 +1682,16 @@
             "city": {
               "tr": "Bursa",
               "en": "Bursa",
-              "ar": "بورصة"
+              "ar": "بورصة",
+              "de": "Bursa",
+              "ru": "Bursa"
             },
             "district": {
               "tr": "Nilüfer",
               "en": "Nilufer",
-              "ar": "نيلوفر"
+              "ar": "نيلوفر",
+              "de": "Nilüfer",
+              "ru": "Nilüfer"
             },
             "img": [],
             "permitNo": "DEMO-16-0007",
@@ -1379,7 +1703,9 @@
             "title": {
               "tr": "Merkezi konumda 1+1 rezidans",
               "en": "1+1 residence in a central location",
-              "ar": "وحدة 1+1 في مجمّع سكني بموقع مركزي"
+              "ar": "وحدة 1+1 في مجمّع سكني بموقع مركزي",
+              "de": "1+1-Residenz in zentraler Lage",
+              "ru": "Резиденция 1+1 в центральном районе"
             },
             "deal": "sale",
             "type": "rezidans",
@@ -1390,12 +1716,16 @@
             "city": {
               "tr": "İstanbul",
               "en": "Istanbul",
-              "ar": "إسطنبول"
+              "ar": "إسطنبول",
+              "de": "Istanbul",
+              "ru": "Стамбул"
             },
             "district": {
               "tr": "Beşiktaş",
               "en": "Besiktas",
-              "ar": "بشيكتاش"
+              "ar": "بشيكتاش",
+              "de": "Beşiktaş",
+              "ru": "Бешикташ"
             },
             "img": [],
             "permitNo": "DEMO-34-0008",
@@ -1424,22 +1754,30 @@
         "text": {
           "tr": "Bu demo {brand} tarafından hazırlanmıştır —",
           "en": "This demo was prepared by {brand} —",
-          "ar": "تم إعداد هذا العرض التجريبي بواسطة {brand} —"
+          "ar": "تم إعداد هذا العرض التجريبي بواسطة {brand} —",
+          "de": "Diese Demo wurde von {brand} erstellt —",
+          "ru": "Это демо подготовлено компанией {brand} —"
         },
         "ctaText": {
           "tr": "Bu temayı iste",
           "en": "Get this theme",
-          "ar": "اطلب هذا القالب"
+          "ar": "اطلب هذا القالب",
+          "de": "Dieses Thema anfordern",
+          "ru": "Заказать эту тему"
         },
         "newTabText": {
           "tr": "(yeni sekmede açılır)",
           "en": "(opens in a new tab)",
-          "ar": "(يفتح في علامة تبويب جديدة)"
+          "ar": "(يفتح في علامة تبويب جديدة)",
+          "de": "(öffnet in einem neuen Tab)",
+          "ru": "(открывается в новой вкладке)"
         },
         "ariaLabel": {
           "tr": "Demo bilgisi",
           "en": "Demo credit",
-          "ar": "معلومات العرض التجريبي"
+          "ar": "معلومات العرض التجريبي",
+          "de": "Demo-Hinweis",
+          "ru": "Демо-информация"
         }
       },
       "veri": {
@@ -1479,7 +1817,9 @@
         "cta_ad": {
           "tr": "Rezervasyon",
           "en": "Book a stay",
-          "ar": "احجز إقامة"
+          "ar": "احجز إقامة",
+          "de": "Reservierung",
+          "ru": "Бронирование"
         },
         "cta_url": "teklif-al",
         "tel": "+90 286 069 17 33",
@@ -1502,7 +1842,9 @@
         "cta": {
           "tr": "Teklif al",
           "en": "Get a quote",
-          "ar": "اطلب عرض سعر"
+          "ar": "اطلب عرض سعر",
+          "de": "Angebot einholen",
+          "ru": "Получить предложение"
         }
       },
       "data": [],
@@ -1542,17 +1884,23 @@
         "ust": {
           "tr": "Ada oteli · Bozcaada",
           "en": "Island hotel · Bozcaada",
-          "ar": "فندق جزيرة · بوزجاادا"
+          "ar": "فندق جزيرة · بوزجاادا",
+          "de": "Inselhotel · Bozcaada",
+          "ru": "Островной отель · Бозджаада"
         },
         "baslik": {
           "tr": "Begonvilin gölgesinde ada saati",
           "en": "Island time in the shade of bougainvillea",
-          "ar": "وقت الجزيرة في ظل الجهنمية"
+          "ar": "وقت الجزيرة في ظل الجهنمية",
+          "de": "Inselstunde im Schatten der Bougainvillea",
+          "ru": "Островной час в тени бугенвиллеи"
         },
         "metin": {
           "tr": "Taş avlu, zeytin bahçesi ve denize bakan havuz: 18 odalı kurgusal bir ada oteli. Fiyatlar tarihe ve doluluğa göre değiştiği için konaklama talebiyle yazılı bildirilir.",
           "en": "A stone courtyard, an olive garden and a pool facing the sea: a fictional 18-room island hotel. Prices vary by date and occupancy, so they are sent in writing with your stay request.",
-          "ar": "فناء حجري وبستان زيتون ومسبح يطل على البحر: فندق جزيرة افتراضي من 18 غرفة. تختلف الأسعار حسب التاريخ والإشغال، لذا تُرسل كتابيًا مع طلب الإقامة."
+          "ar": "فناء حجري وبستان زيتون ومسبح يطل على البحر: فندق جزيرة افتراضي من 18 غرفة. تختلف الأسعار حسب التاريخ والإشغال، لذا تُرسل كتابيًا مع طلب الإقامة.",
+          "de": "Steinhof, Olivengarten und Pool mit Meerblick: ein fiktives Inselhotel mit 18 Zimmern. Da die Preise je nach Datum und Auslastung variieren, werden sie mit der Unterkunftsanfrage schriftlich mitgeteilt.",
+          "ru": "Каменный двор, оливковый сад и бассейн с видом на море: вымышленный островной отель на 18 номеров. Поскольку цены зависят от даты и загрузки, они сообщаются письменно при запросе на размещение."
         },
         "img": "/img/otel-hero-bahce.webp",
         "img2": "",
@@ -1561,18 +1909,24 @@
         "alt": {
           "tr": "Zeytin ağaçları arasında havuzlu avlu",
           "en": "A courtyard with a pool among olive trees",
-          "ar": "فناء بمسبح بين أشجار الزيتون"
+          "ar": "فناء بمسبح بين أشجار الزيتون",
+          "de": "Innenhof mit Pool zwischen Olivenbäumen",
+          "ru": "Внутренний двор с бассейном среди оливковых деревьев"
         },
         "cta_ad": {
           "tr": "Odaları gez",
           "en": "Browse the rooms",
-          "ar": "تصفّح الغرف"
+          "ar": "تصفّح الغرف",
+          "de": "Zimmer ansehen",
+          "ru": "Просмотреть номера"
         },
         "cta_url": "hizmetler",
         "cta2_ad": {
           "tr": "Konaklama talebi",
           "en": "Request a stay",
-          "ar": "اطلب إقامة"
+          "ar": "اطلب إقامة",
+          "de": "Aufenthalt anfragen",
+          "ru": "Запросить проживание"
         },
         "cta2_url": "teklif-al",
         "rozet_ikon": "verified",
@@ -1580,7 +1934,9 @@
         "rozet_metin": {
           "tr": "Turizm İşletme Belgesi (kurgusal)",
           "en": "Tourism Operation Licence (fictional)",
-          "ar": "رخصة التشغيل السياحي (افتراضية)"
+          "ar": "رخصة التشغيل السياحي (افتراضية)",
+          "de": "Tourismus-Betriebsgenehmigung (fiktiv)",
+          "ru": "Лицензия на туристическую деятельность (вымышленная)"
         },
         "bg": "var(--mx-site-bg, #ffffff)",
         "text": "var(--mx-site-text, #111318)",
@@ -1600,28 +1956,38 @@
         "eyebrow": {
           "tr": "Ada oteli · Bozcaada",
           "en": "Island hotel · Bozcaada",
-          "ar": "فندق جزيرة · بوزجاادا"
+          "ar": "فندق جزيرة · بوزجاادا",
+          "de": "Inselhotel · Bozcaada",
+          "ru": "Островной отель · Бозджаада"
         },
         "title": {
           "tr": "Begonvilin gölgesinde ada saati",
           "en": "Island time in the shade of bougainvillea",
-          "ar": "وقت الجزيرة في ظل الجهنمية"
+          "ar": "وقت الجزيرة في ظل الجهنمية",
+          "de": "Inselstunde im Schatten der Bougainvillea",
+          "ru": "Островной час в тени бугенвиллеи"
         },
         "cta1": {
           "tr": "Odaları gez",
           "en": "Browse the rooms",
-          "ar": "تصفّح الغرف"
+          "ar": "تصفّح الغرف",
+          "de": "Zimmer ansehen",
+          "ru": "Просмотреть номера"
         },
         "cta1_url": "hizmetler",
         "cta2": {
           "tr": "Konaklama talebi",
           "en": "Request a stay",
-          "ar": "اطلب إقامة"
+          "ar": "اطلب إقامة",
+          "de": "Aufenthalt anfragen",
+          "ru": "Запросить проживание"
         },
         "scroll_label": {
           "tr": "Aşağı kaydır",
           "en": "Scroll down",
-          "ar": "انزل للأسفل"
+          "ar": "انزل للأسفل",
+          "de": "Nach unten scrollen",
+          "ru": "Прокрутите вниз"
         }
       },
       "data": [
@@ -1631,7 +1997,9 @@
           "metin": {
             "tr": "oda",
             "en": "rooms",
-            "ar": "غرفة"
+            "ar": "غرفة",
+            "de": "Zimmer",
+            "ru": "Комнаты"
           }
         },
         {
@@ -1640,7 +2008,9 @@
           "metin": {
             "tr": "dakikada iskele",
             "en": "minutes to the pier",
-            "ar": "دقائق إلى الرصيف"
+            "ar": "دقائق إلى الرصيف",
+            "de": "Steg pro Minute",
+            "ru": "пристань в минуту"
           }
         },
         {
@@ -1648,7 +2018,9 @@
           "metin": {
             "tr": "Turizm İşletme Belgesi No: DEMO-1733 · Begonvil Turizm Ltd. Şti. (kurgusal)",
             "en": "Tourism Operation Licence No: DEMO-1733 · Begonvil Tourism Ltd. (fictional)",
-            "ar": "رقم رخصة التشغيل السياحي: DEMO-1733 · شركة بيغونفيل للسياحة (افتراضية)"
+            "ar": "رقم رخصة التشغيل السياحي: DEMO-1733 · شركة بيغونفيل للسياحة (افتراضية)",
+            "de": "Tourismus-Betriebslizenz Nr.: DEMO-1733 · Begonvil Turizm Ltd. Şti. (fiktiv)",
+            "ru": "Лицензия на туристическую деятельность №: DEMO-1733 · Begonvil Turizm Ltd. Şti. (вымышленная)"
           }
         }
       ],
@@ -1692,17 +2064,23 @@
         "ust": {
           "tr": "Konuk puanları",
           "en": "Guest ratings",
-          "ar": "تقييمات الضيوف"
+          "ar": "تقييمات الضيوف",
+          "de": "Gästebewertungen",
+          "ru": "Оценки гостей"
         },
         "baslik": {
           "tr": "Konuklarımız ne dedi?",
           "en": "What did our guests say?",
-          "ar": "ماذا قال ضيوفنا؟"
+          "ar": "ماذا قال ضيوفنا؟",
+          "de": "Was sagten unsere Gäste?",
+          "ru": "Что сказали наши гости?"
         },
         "metin": {
           "tr": "Histogram çubuğuna dokunun, o yıldız düzeyindeki başlıklar süzülsün. Kurgusal demo verisi; 5 üzerinden.",
           "en": "Tap a histogram bar to filter the topics at that star level. Fictional demo data; out of 5.",
-          "ar": "المس شريط المدرج لتصفية البنود عند ذلك المستوى من النجوم. بيانات تجريبية افتراضية؛ من 5."
+          "ar": "المس شريط المدرج لتصفية البنود عند ذلك المستوى من النجوم. بيانات تجريبية افتراضية؛ من 5.",
+          "de": "Tippen Sie auf einen Histogrammbalken, um die Titel dieser Sternestufe zu filtern. Fiktive Demodaten; von 5.",
+          "ru": "Нажмите на столбец гистограммы, чтобы отфильтровать заголовки этого уровня звёзд. Вымышленные демонстрационные данные; по 5-балльной шкале."
         },
         "bg": "var(--mx-site-bg, #ffffff)",
         "text": "var(--mx-site-text, #111318)",
@@ -1717,19 +2095,25 @@
         "toplam_ad": {
           "tr": "Genel konuk puanı (kurgusal)",
           "en": "Overall guest score (fictional)",
-          "ar": "التقييم العام للضيوف (افتراضي)"
+          "ar": "التقييم العام للضيوف (افتراضي)",
+          "de": "Gesamtbewertung der Gäste (fiktiv)",
+          "ru": "Общий рейтинг гостей (вымышленный)"
         },
         "bgcolor": "var(--mx-site-bg, #ffffff)",
         "color": "var(--mx-site-text, #111318)",
         "title": {
           "tr": "Avluya, bahçeye ya da denize",
           "en": "Onto the courtyard, the garden or the sea",
-          "ar": "على الفناء أو الحديقة أو البحر"
+          "ar": "على الفناء أو الحديقة أو البحر",
+          "de": "In den Hof, in den Garten oder ans Meer",
+          "ru": "Во двор, в сад или к морю"
         },
         "description": {
           "tr": "Kurgusal demo verileri.",
           "en": "Fictional demo figures.",
-          "ar": "بيانات تجريبية افتراضية."
+          "ar": "بيانات تجريبية افتراضية.",
+          "de": "Fiktive Demo-Daten.",
+          "ru": "Вымышленные демо-данные."
         }
       },
       "data": [
@@ -1741,12 +2125,16 @@
           "etiket": {
             "tr": "Temizlik",
             "en": "Cleanliness",
-            "ar": "النظافة"
+            "ar": "النظافة",
+            "de": "Sauberkeit",
+            "ru": "Чистота"
           },
           "metin": {
             "tr": "Oda ve ortak alanlar",
             "en": "Rooms and shared areas",
-            "ar": "الغرف والمناطق المشتركة"
+            "ar": "الغرف والمناطق المشتركة",
+            "de": "Zimmer und Gemeinschaftsbereiche",
+            "ru": "Комнаты и общие зоны"
           }
         },
         {
@@ -1757,12 +2145,16 @@
           "etiket": {
             "tr": "Kahvaltı",
             "en": "Breakfast",
-            "ar": "الإفطار"
+            "ar": "الإفطار",
+            "de": "Frühstück",
+            "ru": "Завтрак"
           },
           "metin": {
             "tr": "Ada üreticilerinden",
             "en": "From island producers",
-            "ar": "من منتجي الجزيرة"
+            "ar": "من منتجي الجزيرة",
+            "de": "Von den Erzeugern der Insel",
+            "ru": "От производителей острова"
           }
         },
         {
@@ -1773,12 +2165,16 @@
           "etiket": {
             "tr": "Konum",
             "en": "Location",
-            "ar": "الموقع"
+            "ar": "الموقع",
+            "de": "Standort",
+            "ru": "Местоположение"
           },
           "metin": {
             "tr": "İskeleye ve çarşıya yakınlık",
             "en": "Close to the pier and the market",
-            "ar": "القرب من الرصيف والسوق"
+            "ar": "القرب من الرصيف والسوق",
+            "de": "Nähe zu Anlegestelle und Basar",
+            "ru": "Близость к пристани и базару"
           }
         },
         {
@@ -1789,12 +2185,16 @@
           "etiket": {
             "tr": "Resepsiyon",
             "en": "Front desk",
-            "ar": "الاستقبال"
+            "ar": "الاستقبال",
+            "de": "Rezeption",
+            "ru": "Ресепшн"
           },
           "metin": {
             "tr": "Karşılama ve yardım",
             "en": "Welcome and help",
-            "ar": "الاستقبال والمساعدة"
+            "ar": "الاستقبال والمساعدة",
+            "de": "Empfang und Hilfe",
+            "ru": "Встреча и помощь"
           }
         },
         {
@@ -1805,12 +2205,16 @@
           "etiket": {
             "tr": "Sessizlik",
             "en": "Quiet",
-            "ar": "الهدوء"
+            "ar": "الهدوء",
+            "de": "Stille",
+            "ru": "Тишина"
           },
           "metin": {
             "tr": "Yaz akşamlarında çarşı sesi duyulabilir",
             "en": "The market can be heard on summer evenings",
-            "ar": "قد يُسمع صوت السوق في أمسيات الصيف"
+            "ar": "قد يُسمع صوت السوق في أمسيات الصيف",
+            "de": "An Sommerabenden ist der Markt zu hören",
+            "ru": "Летними вечерами слышен шум рынка"
           }
         },
         {
@@ -1821,12 +2225,16 @@
           "etiket": {
             "tr": "Otopark",
             "en": "Parking",
-            "ar": "موقف السيارات"
+            "ar": "موقف السيارات",
+            "de": "Parkplatz",
+            "ru": "Парковка"
           },
           "metin": {
             "tr": "Adada araç az; otopark iskelede",
             "en": "Few cars on the island; parking at the pier",
-            "ar": "السيارات قليلة في الجزيرة؛ الموقف عند الرصيف"
+            "ar": "السيارات قليلة في الجزيرة؛ الموقف عند الرصيف",
+            "de": "Wenig Autos auf der Insel; Parkplatz am Pier",
+            "ru": "Мало машин на острове; парковка у причала"
           }
         }
       ],
@@ -1873,22 +2281,30 @@
         "ust": {
           "tr": "İletişim",
           "en": "Contact",
-          "ar": "تواصل"
+          "ar": "تواصل",
+          "de": "Kontakt",
+          "ru": "Контакты"
         },
         "baslik": {
           "tr": "Adaya nasıl gelinir?",
           "en": "How to reach the island",
-          "ar": "كيف تصل إلى الجزيرة؟"
+          "ar": "كيف تصل إلى الجزيرة؟",
+          "de": "Wie kommt man zur Insel?",
+          "ru": "Как добраться до острова?"
         },
         "metin": {
           "tr": "Geyikli iskelesinden feribotla yaklaşık 35 dakika; iskeleden otele yürüyerek 6 dakika. Harita yalnız siz düğmeye bastığınızda yüklenir.",
           "en": "About 35 minutes by ferry from Geyikli pier; a 6-minute walk from the pier to the hotel. The map loads only when you press the button.",
-          "ar": "نحو 35 دقيقة بالعبّارة من رصيف غييكلي، ثم 6 دقائق سيرًا من الرصيف إلى الفندق. لا تُحمَّل الخريطة إلا عند الضغط على الزر."
+          "ar": "نحو 35 دقيقة بالعبّارة من رصيف غييكلي، ثم 6 دقائق سيرًا من الرصيف إلى الفندق. لا تُحمَّل الخريطة إلا عند الضغط على الزر.",
+          "de": "Etwa 35 Minuten mit der Fähre ab dem Anleger Geyikli; vom Anleger 6 Minuten zu Fuß zum Hotel. Die Karte wird erst geladen, wenn Sie auf die Schaltfläche klicken.",
+          "ru": "Около 35 минут на пароме от пристани Geyikli; от пристани до отеля 6 минут пешком. Карта загружается только после нажатия кнопки."
         },
         "adres": {
           "tr": "Çınaraltı Sokak No: 17, Bozcaada, Çanakkale (kurgusal adres)",
           "en": "17 Cinaralti Street, Bozcaada, Canakkale (fictional address)",
-          "ar": "شارع تشينار ألتي رقم 17، بوزجاادا، جناق قلعة (عنوان افتراضي)"
+          "ar": "شارع تشينار ألتي رقم 17، بوزجاادا، جناق قلعة (عنوان افتراضي)",
+          "de": "Çınaraltı Sokak Nr. 17, Bozcaada, Çanakkale (fiktive Adresse)",
+          "ru": "Çınaraltı Sokak No: 17, Bozcaada, Çanakkale (условный адрес)"
         },
         "telefon": "+90 286 069 17 33",
         "eposta": "konuk@begonvilotel.example",
@@ -1896,14 +2312,18 @@
         "saat": {
           "tr": "Resepsiyon 08:00 – 23:00 · Giriş 14:00 · Çıkış 11:30",
           "en": "Front desk 08:00 – 23:00 · Check-in 14:00 · Check-out 11:30",
-          "ar": "الاستقبال 08:00 – 23:00 · الوصول 14:00 · المغادرة 11:30"
+          "ar": "الاستقبال 08:00 – 23:00 · الوصول 14:00 · المغادرة 11:30",
+          "de": "Rezeption 08:00 – 23:00 · Check-in 14:00 · Check-out 11:30",
+          "ru": "Ресепшен 08:00 – 23:00 · Заезд 14:00 · Выезд 11:30"
         },
         "haritaUrl": "",
         "haritaGomme": "",
         "waMesaj": {
           "tr": "Merhaba, Begonvil Otel için konaklama talebim var: giriş … / çıkış … / misafir …",
           "en": "Hello, I would like to request a stay at Begonvil Hotel: check-in … / check-out … / guests …",
-          "ar": "مرحبًا، أودّ طلب إقامة في فندق بيغونفيل: الوصول … / المغادرة … / الضيوف …"
+          "ar": "مرحبًا، أودّ طلب إقامة في فندق بيغونفيل: الوصول … / المغادرة … / الضيوف …",
+          "de": "Hallo, ich möchte einen Aufenthalt im Begonvil Hotel anfragen: Anreise … / Abreise … / Gäste …",
+          "ru": "Здравствуйте, я хотел бы забронировать проживание в отеле Begonvil: заезд … / выезд … / гостей …"
         },
         "bg": "var(--mx-site-surface, #f6f7f9)",
         "text": "var(--mx-site-text, #111318)",
@@ -1921,40 +2341,54 @@
         "address": {
           "tr": "Çınaraltı Sokak No: 17, Bozcaada, Çanakkale (kurgusal adres)",
           "en": "17 Cinaralti Street, Bozcaada, Canakkale (fictional address)",
-          "ar": "شارع تشينار ألتي رقم 17، بوزجاادا، جناق قلعة (عنوان افتراضي)"
+          "ar": "شارع تشينار ألتي رقم 17، بوزجاادا، جناق قلعة (عنوان افتراضي)",
+          "de": "Çınaraltı Sokak Nr. 17, Bozcaada, Çanakkale (fiktive Adresse)",
+          "ru": "Çınaraltı Sokak No: 17, Bozcaada, Çanakkale (условный адрес)"
         },
         "phone": "+90 286 069 17 33",
         "email": "konuk@begonvilotel.example",
         "hours": {
           "tr": "Resepsiyon 08:00 – 23:00 · Giriş 14:00 · Çıkış 11:30",
           "en": "Front desk 08:00 – 23:00 · Check-in 14:00 · Check-out 11:30",
-          "ar": "الاستقبال 08:00 – 23:00 · الوصول 14:00 · المغادرة 11:30"
+          "ar": "الاستقبال 08:00 – 23:00 · الوصول 14:00 · المغادرة 11:30",
+          "de": "Rezeption 08:00 – 23:00 · Check-in 14:00 · Check-out 11:30",
+          "ru": "Ресепшен 08:00 – 23:00 · Заезд 14:00 · Выезд 11:30"
         },
         "social": [],
         "title": {
           "tr": "Teklif isteyin",
           "en": "Request a quote",
-          "ar": "اطلب عرض سعر"
+          "ar": "اطلب عرض سعر",
+          "de": "Angebot anfordern",
+          "ru": "Запросить предложение"
         },
         "description": {
           "tr": "Bilgilerinizi bırakın; en geç iki iş günü içinde dönüş yaparız. Bu form demodur; e-posta istemciniz açılır, veri saklanmaz.",
           "en": "Leave your details; we reply within two business days. This form is a demo; it opens your e-mail client and stores no data.",
-          "ar": "اترك بياناتك وسنرد خلال يومي عمل. هذا النموذج تجريبي؛ يفتح برنامج البريد لديك ولا يحفظ أي بيانات."
+          "ar": "اترك بياناتك وسنرد خلال يومي عمل. هذا النموذج تجريبي؛ يفتح برنامج البريد لديك ولا يحفظ أي بيانات.",
+          "de": "Hinterlassen Sie Ihre Angaben; wir melden uns innerhalb von zwei Werktagen. Dieses Formular ist eine Demo; es öffnet Ihren E-Mail-Client und speichert keine Daten.",
+          "ru": "Оставьте свои данные; мы ответим в течение двух рабочих дней. Эта форма является демо; она открывает ваш почтовый клиент и не хранит данные."
         },
         "panelTitle": {
           "tr": "Begonvil Otel",
           "en": "Begonvil Otel",
-          "ar": "Begonvil Otel"
+          "ar": "Begonvil Otel",
+          "de": "Begonvil Otel",
+          "ru": "Begonvil Otel"
         },
         "panelText": {
           "tr": "Görseller temsilidir; bu bir kurulum demosudur.",
           "en": "Images are representative; this is a setup demo.",
-          "ar": "الصور تمثيلية وهذا عرض تجريبي."
+          "ar": "الصور تمثيلية وهذا عرض تجريبي.",
+          "de": "Die Bilder sind symbolisch; dies ist eine Einrichtungs-Demo.",
+          "ru": "Изображения условные; это демонстрация установки."
         },
         "formTitle": {
           "tr": "Teklif formu",
           "en": "Quote form",
-          "ar": "نموذج الطلب"
+          "ar": "نموذج الطلب",
+          "de": "Angebotsformular",
+          "ru": "Форма запроса предложения"
         },
         "subjects": [
           {
@@ -1962,7 +2396,9 @@
             "name": {
               "tr": "Yeni talep",
               "en": "New request",
-              "ar": "طلب جديد"
+              "ar": "طلب جديد",
+              "de": "Neue Anfrage",
+              "ru": "Новый запрос"
             }
           },
           {
@@ -1970,7 +2406,9 @@
             "name": {
               "tr": "Ölçü ve keşif",
               "en": "Measure and survey",
-              "ar": "قياس واستقصاء"
+              "ar": "قياس واستقصاء",
+              "de": "Aufmaß und Besichtigung",
+              "ru": "Замеры и осмотр"
             }
           },
           {
@@ -1978,7 +2416,9 @@
             "name": {
               "tr": "Teknik soru",
               "en": "Technical question",
-              "ar": "سؤال فني"
+              "ar": "سؤال فني",
+              "de": "Technische Frage",
+              "ru": "Технический вопрос"
             }
           },
           {
@@ -1986,19 +2426,25 @@
             "name": {
               "tr": "Diğer",
               "en": "Other",
-              "ar": "أخرى"
+              "ar": "أخرى",
+              "de": "Sonstiges",
+              "ru": "Другое"
             }
           }
         ],
         "kvkkText": {
           "tr": "Kişisel verilerimin bu talebin yanıtlanması amacıyla işlenmesine ilişkin aydınlatma metnini okudum.",
           "en": "I have read the privacy notice on how my personal data is processed to answer this request.",
-          "ar": "لقد قرأت إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية للرد على هذا الطلب."
+          "ar": "لقد قرأت إشعار الخصوصية المتعلق بمعالجة بياناتي الشخصية للرد على هذا الطلب.",
+          "de": "Ich habe die Datenschutzerklärung zur Verarbeitung meiner personenbezogenen Daten zur Beantwortung dieser Anfrage gelesen.",
+          "ru": "Я ознакомился(лась) с уведомлением о конфиденциальности об обработке моих персональных данных для ответа на этот запрос."
         },
         "kvkkLinkText": {
           "tr": "Aydınlatma metni",
           "en": "Privacy notice",
-          "ar": "إشعار الخصوصية"
+          "ar": "إشعار الخصوصية",
+          "de": "Datenschutzhinweis",
+          "ru": "Информация об обработке данных"
         },
         "kvkkHref": "kisiselveriler"
       },
@@ -2041,30 +2487,40 @@
         "ust": {
           "tr": "Otelimiz",
           "en": "Our hotel",
-          "ar": "فندقنا"
+          "ar": "فندقنا",
+          "de": "Unser Hotel",
+          "ru": "Наш отель"
         },
         "baslik": {
           "tr": "Bir avlu, on sekiz oda",
           "en": "One courtyard, eighteen rooms",
-          "ar": "فناء واحد وثماني عشرة غرفة"
+          "ar": "فناء واحد وثماني عشرة غرفة",
+          "de": "Ein Innenhof, achtzehn Zimmer",
+          "ru": "Один двор, восемнадцать номеров"
         },
         "metin": {
           "tr": "Begonvil Otel, Bozcaada’nın eski Rum mahallesinde taş bir avlunun çevresine kurulmuş kurgusal bir demo oteldir. Sabahları kahvaltı avluda, öğleden sonraları havuz başında zeytin gölgesi, akşamları çarşıya beş dakikalık yürüyüş. Turizm İşletme Belgesi No: DEMO-1733 · Begonvil Turizm Ltd. Şti. (kurgusal)",
           "en": "Begonvil Hotel is a fictional demo hotel built around a stone courtyard in Bozcaada’s old Greek quarter. Breakfast in the courtyard in the morning, olive shade by the pool in the afternoon, a five-minute walk to the market in the evening. Tourism Operation Licence No: DEMO-1733 · Begonvil Tourism Ltd. (fictional)",
-          "ar": "فندق بيغونفيل فندق تجريبي افتراضي أُقيم حول فناء حجري في الحي اليوناني القديم ببوزجاادا. الإفطار في الفناء صباحًا، وظل الزيتون قرب المسبح بعد الظهر، ونزهة خمس دقائق إلى السوق مساءً. رقم رخصة التشغيل السياحي: DEMO-1733 · شركة بيغونفيل للسياحة (افتراضية)"
+          "ar": "فندق بيغونفيل فندق تجريبي افتراضي أُقيم حول فناء حجري في الحي اليوناني القديم ببوزجاادا. الإفطار في الفناء صباحًا، وظل الزيتون قرب المسبح بعد الظهر، ونزهة خمس دقائق إلى السوق مساءً. رقم رخصة التشغيل السياحي: DEMO-1733 · شركة بيغونفيل للسياحة (افتراضية)",
+          "de": "Das Begonvil Otel ist ein fiktives Demo-Hotel um einen Steinhof im alten griechischen Viertel von Bozcaada. Morgens Frühstück im Innenhof, nachmittags Olivenschatten am Pool, abends fünf Minuten zu Fuß zum Basar. Tourismusbetriebsurkunde Nr.: DEMO-1733 · Begonvil Turizm Ltd. Şti. (fiktiv)",
+          "ru": "Begonvil Otel — вымышленный демонстрационный отель, построенный вокруг каменного двора в старом греческом квартале Бозджаады. По утрам завтрак во дворе, днём тень оливы у бассейна, вечером пять минут пешком до базара. Свидетельство туристического предприятия №: DEMO-1733 · Begonvil Turizm Ltd. Şti. (вымышленное)"
         },
         "img": "/img/otel-resepsiyon.webp",
         "img2": "",
         "cta_ad": {
           "tr": "Konaklama talebi",
           "en": "Request a stay",
-          "ar": "اطلب إقامة"
+          "ar": "اطلب إقامة",
+          "de": "Aufenthalt anfragen",
+          "ru": "Запросить проживание"
         },
         "cta_url": "teklif-al",
         "cta2_ad": {
           "tr": "İptal koşulları",
           "en": "Cancellation terms",
-          "ar": "شروط الإلغاء"
+          "ar": "شروط الإلغاء",
+          "de": "Storno",
+          "ru": "Отмена"
         },
         "cta2_url": "sorular",
         "bg": "var(--mx-site-bg, #ffffff)",
@@ -2095,12 +2551,16 @@
           "baslik": {
             "tr": "Begonvilli avlu",
             "en": "Bougainvillea courtyard",
-            "ar": "فناء الجهنمية"
+            "ar": "فناء الجهنمية",
+            "de": "Innenhof mit Bougainvillea",
+            "ru": "Двор с бугенвиллеей"
           },
           "metin": {
             "tr": "Kahvaltı ve akşam çayı",
             "en": "Breakfast and evening tea",
-            "ar": "الإفطار وشاي المساء"
+            "ar": "الإفطار وشاي المساء",
+            "de": "Frühstück und Abendtee",
+            "ru": "Завтрак и вечерний чай"
           }
         },
         {
@@ -2108,12 +2568,16 @@
           "baslik": {
             "tr": "Havuz",
             "en": "Pool",
-            "ar": "المسبح"
+            "ar": "المسبح",
+            "de": "Pool",
+            "ru": "Бассейн"
           },
           "metin": {
             "tr": "Mayıs – ekim",
             "en": "May – October",
-            "ar": "مايو – أكتوبر"
+            "ar": "مايو – أكتوبر",
+            "de": "Mai – Oktober",
+            "ru": "Май – октябрь"
           }
         },
         {
@@ -2121,12 +2585,16 @@
           "baslik": {
             "tr": "Çarşıya 5 dakika",
             "en": "5 minutes to the market",
-            "ar": "5 دقائق إلى السوق"
+            "ar": "5 دقائق إلى السوق",
+            "de": "5 Minuten zum Basar",
+            "ru": "5 минут до базара"
           },
           "metin": {
             "tr": "Araçsız ada",
             "en": "A car-free island",
-            "ar": "جزيرة بلا سيارات"
+            "ar": "جزيرة بلا سيارات",
+            "de": "Insel ohne Autos",
+            "ru": "Остров без машин"
           }
         }
       ],
@@ -2168,28 +2636,38 @@
         "ust": {
           "tr": "Kontenjan",
           "en": "Availability",
-          "ar": "التوافر"
+          "ar": "التوافر",
+          "de": "Kapazität",
+          "ru": "Вместимость"
         },
         "baslik": {
           "tr": "Ekim hafta sonları için son odalar",
           "en": "The last rooms for October weekends",
-          "ar": "الغرف الأخيرة لعطلات أكتوبر الأسبوعية"
+          "ar": "الغرف الأخيرة لعطلات أكتوبر الأسبوعية",
+          "de": "Letzte Zimmer für Oktober-Wochenenden",
+          "ru": "Последние номера на октябрьские выходные"
         },
         "metin": {
           "tr": "Fiyatlar tarihe ve doluluğa göre değiştiği için konaklama talebiyle yazılı bildirilir. Kurgusal demo doluluk verisi.",
           "en": "Prices vary by date and occupancy, so they are sent in writing with your stay request. Fictional demo occupancy data.",
-          "ar": "تختلف الأسعار حسب التاريخ والإشغال، لذا تُرسل كتابيًا مع طلب الإقامة. بيانات إشغال تجريبية افتراضية."
+          "ar": "تختلف الأسعار حسب التاريخ والإشغال، لذا تُرسل كتابيًا مع طلب الإقامة. بيانات إشغال تجريبية افتراضية.",
+          "de": "Da die Preise je nach Datum und Auslastung variieren, werden sie mit der Unterkunftsanfrage schriftlich mitgeteilt. Fiktive Demo-Belegungsdaten.",
+          "ru": "Поскольку цены зависят от даты и загрузки, они сообщаются в письменном виде вместе с запросом на проживание. Вымышленные демо-данные о загрузке."
         },
         "btn1Text": {
           "tr": "Konaklama talebi",
           "en": "Request a stay",
-          "ar": "اطلب إقامة"
+          "ar": "اطلب إقامة",
+          "de": "Aufenthalt anfragen",
+          "ru": "Запросить проживание"
         },
         "btn1Url": "teklif-al",
         "btn2Text": {
           "tr": "İptal koşulları",
           "en": "Cancellation terms",
-          "ar": "شروط الإلغاء"
+          "ar": "شروط الإلغاء",
+          "de": "Storno",
+          "ru": "Отмена"
         },
         "btn2Url": "sorular",
         "img": "",
@@ -2198,34 +2676,46 @@
         "not": {
           "tr": "Belirli bir tarih için yapılan konaklama rezervasyonlarında 6502 sayılı Kanun md. 15/g uyarınca cayma hakkı bulunmaz.",
           "en": "For stays booked for a specific date there is no right of withdrawal under Law No. 6502 art. 15/g.",
-          "ar": "لا يوجد حق عدول في حجوزات الإقامة المحددة بتاريخ معيّن بموجب المادة 15/ز من القانون التركي رقم 6502."
+          "ar": "لا يوجد حق عدول في حجوزات الإقامة المحددة بتاريخ معيّن بموجب المادة 15/ز من القانون التركي رقم 6502.",
+          "de": "Bei Unterkunftsbuchungen für ein bestimmtes Datum besteht gemäß Art. 15/g des Gesetzes Nr. 6502 kein Widerrufsrecht.",
+          "ru": "При бронировании проживания на определённую дату право на отказ согласно ст. 15/g Закона № 6502 не предоставляется."
         },
         "number": "902860691733",
         "numberText": "+90 286 069 17 33",
         "waLabel": {
           "tr": "Mesaj gönder",
           "en": "Send a message",
-          "ar": "أرسل رسالة"
+          "ar": "أرسل رسالة",
+          "de": "Nachricht senden",
+          "ru": "Отправить сообщение"
         },
         "waTitle": {
           "tr": "WhatsApp ile yazın",
           "en": "Write on WhatsApp",
-          "ar": "راسلنا عبر واتساب"
+          "ar": "راسلنا عبر واتساب",
+          "de": "Schreiben Sie per WhatsApp",
+          "ru": "Напишите в WhatsApp"
         },
         "waMessage": {
           "tr": "Merhaba, Begonvil Otel için konaklama talebim var.",
           "en": "Hello, I would like to request a stay at Begonvil Hotel.",
-          "ar": "مرحبًا، أودّ طلب إقامة في فندق بيغونفيل."
+          "ar": "مرحبًا، أودّ طلب إقامة في فندق بيغونفيل.",
+          "de": "Hallo, ich habe eine Buchungsanfrage für das Begonvil Hotel.",
+          "ru": "Здравствуйте, у меня есть запрос на проживание в отеле Begonvil."
         },
         "hours": {
           "tr": "Resepsiyon 08:00 – 23:00 · Giriş 14:00 · Çıkış 11:30",
           "en": "Front desk 08:00 – 23:00 · Check-in 14:00 · Check-out 11:30",
-          "ar": "الاستقبال 08:00 – 23:00 · الوصول 14:00 · المغادرة 11:30"
+          "ar": "الاستقبال 08:00 – 23:00 · الوصول 14:00 · المغادرة 11:30",
+          "de": "Rezeption 08:00 – 23:00 · Check-in 14:00 · Check-out 11:30",
+          "ru": "Ресепшен 08:00 – 23:00 · Заезд 14:00 · Выезд 11:30"
         },
         "hoursLabel": {
           "tr": "Çalışma saatleri",
           "en": "Opening hours",
-          "ar": "ساعات العمل"
+          "ar": "ساعات العمل",
+          "de": "Öffnungszeiten",
+          "ru": "Часы работы"
         },
         "bg": "var(--mx-site-surface, #f6f7f9)",
         "yaziRenk": "var(--mx-site-text, #111318)",
@@ -2243,34 +2733,46 @@
         "title": {
           "tr": "Sezon sonu için son odalar",
           "en": "The last rooms for the end of the season",
-          "ar": "الغرف الأخيرة لنهاية الموسم"
+          "ar": "الغرف الأخيرة لنهاية الموسم",
+          "de": "Letzte Zimmer für das Saisonende",
+          "ru": "Последние номера на конец сезона"
         },
         "btn1Label": {
           "tr": "Konaklama talebi",
           "en": "Request a stay",
-          "ar": "اطلب إقامة"
+          "ar": "اطلب إقامة",
+          "de": "Aufenthalt anfragen",
+          "ru": "Запросить проживание"
         },
         "btn2Label": {
           "tr": "İptal koşulları",
           "en": "Cancellation terms",
-          "ar": "شروط الإلغاء"
+          "ar": "شروط الإلغاء",
+          "de": "Storno",
+          "ru": "Отмена"
         },
         "description": {
           "tr": "Ekim hafta sonları dolmak üzere. Fiyatlar tarihe ve doluluğa göre değiştiği için konaklama talebiyle yazılı bildirilir. Belirli bir tarih için yapılan konaklama rezervasyonlarında 6502 sayılı Kanun md. 15/g uyarınca cayma hakkı bulunmaz.",
           "en": "October weekends are nearly full. Prices vary by date and occupancy, so they are sent in writing with your stay request. For stays booked for a specific date there is no right of withdrawal under Law No. 6502 art. 15/g.",
-          "ar": "عطلات أكتوبر الأسبوعية على وشك الامتلاء. تختلف الأسعار حسب التاريخ والإشغال، لذا تُرسل كتابيًا مع طلب الإقامة. لا يوجد حق عدول في حجوزات الإقامة المحددة بتاريخ معيّن بموجب المادة 15/ز من القانون التركي رقم 6502."
+          "ar": "عطلات أكتوبر الأسبوعية على وشك الامتلاء. تختلف الأسعار حسب التاريخ والإشغال، لذا تُرسل كتابيًا مع طلب الإقامة. لا يوجد حق عدول في حجوزات الإقامة المحددة بتاريخ معيّن بموجب المادة 15/ز من القانون التركي رقم 6502.",
+          "de": "Die Oktober-Wochenenden sind fast ausgebucht. Da die Preise je nach Datum und Auslastung variieren, werden sie mit der Unterkunftsanfrage schriftlich mitgeteilt. Bei Unterkunftsbuchungen für ein bestimmtes Datum besteht gemäß Art. 15/g des Gesetzes Nr. 6502 kein Widerrufsrecht.",
+          "ru": "Выходные октября почти заполнены. Поскольку цены зависят от даты и загрузки, они сообщаются в письменном виде вместе с запросом на проживание. При бронировании проживания на определённую дату право на отказ согласно ст. 15/g Закона № 6502 не действует."
         },
         "kontenjan": 72,
         "dolu": 57,
         "kalanAd": {
           "tr": "oda-gece kaldı",
           "en": "room-nights left",
-          "ar": "ليلة غرفة متبقية"
+          "ar": "ليلة غرفة متبقية",
+          "de": "Zimmer-Nächte übrig",
+          "ru": "Осталось комнатно-ночей"
         },
         "sonTarih": {
           "tr": "Sezon kapanışı: 2 Kasım 2026",
           "en": "Season closes: 2 November 2026",
-          "ar": "إغلاق الموسم: 2 نوفمبر 2026"
+          "ar": "إغلاق الموسم: 2 نوفمبر 2026",
+          "de": "Saisonende: 2. November 2026",
+          "ru": "Закрытие сезона: 2 ноября 2026"
         }
       },
       "data": [
@@ -2279,7 +2781,9 @@
           "baslik": {
             "tr": "Deniz manzaralı oda",
             "en": "Sea-view room",
-            "ar": "غرفة بإطلالة بحرية"
+            "ar": "غرفة بإطلالة بحرية",
+            "de": "Zimmer mit Meerblick",
+            "ru": "Номер с видом на море"
           },
           "aciklama": "22/24"
         },
@@ -2288,7 +2792,9 @@
           "baslik": {
             "tr": "Avlu odası",
             "en": "Courtyard room",
-            "ar": "غرفة الفناء"
+            "ar": "غرفة الفناء",
+            "de": "Hofzimmer",
+            "ru": "Номер во дворе"
           },
           "aciklama": "26/32"
         },
@@ -2297,7 +2803,9 @@
           "baslik": {
             "tr": "Aile odası",
             "en": "Family room",
-            "ar": "غرفة عائلية"
+            "ar": "غرفة عائلية",
+            "de": "Familienzimmer",
+            "ru": "Семейный номер"
           },
           "aciklama": "9/16"
         }
@@ -2343,25 +2851,33 @@
         "hakkinda": {
           "tr": "Bozcaada’da begonvilli avlusuyla 18 odalı kurgusal ada oteli.",
           "en": "A fictional 18-room island hotel on Bozcaada with a bougainvillea courtyard.",
-          "ar": "فندق جزيرة افتراضي من 18 غرفة في بوزجاادا بفناء من الجهنمية."
+          "ar": "فندق جزيرة افتراضي من 18 غرفة في بوزجاادا بفناء من الجهنمية.",
+          "de": "Fiktives Inselhotel mit 18 Zimmern und Bougainvillea-Hof auf Bozcaada.",
+          "ru": "Вымышленный островной отель на 18 номеров с двориком в бугенвиллеях на Бозджаада."
         },
         "tel": "+90 286 069 17 33",
         "eposta": "konuk@begonvilotel.example",
         "adres": {
           "tr": "Çınaraltı Sokak No: 17, Bozcaada, Çanakkale (kurgusal adres)",
           "en": "17 Cinaralti Street, Bozcaada, Canakkale (fictional address)",
-          "ar": "شارع تشينار ألتي رقم 17، بوزجاادا، جناق قلعة (عنوان افتراضي)"
+          "ar": "شارع تشينار ألتي رقم 17، بوزجاادا، جناق قلعة (عنوان افتراضي)",
+          "de": "Çınaraltı Sokak Nr. 17, Bozcaada, Çanakkale (fiktive Adresse)",
+          "ru": "Çınaraltı Sokak No: 17, Bozcaada, Çanakkale (условный адрес)"
         },
         "cta_ad": {
           "tr": "Rezervasyon",
           "en": "Book a stay",
-          "ar": "احجز إقامة"
+          "ar": "احجز إقامة",
+          "de": "Reservierung",
+          "ru": "Бронирование"
         },
         "cta_url": "teklif-al",
         "rightsText": {
           "tr": "Tüm hakları saklıdır · Turizm İşletme Belgesi No: DEMO-1733 · Begonvil Turizm Ltd. Şti. (kurgusal)",
           "en": "All rights reserved · Tourism Operation Licence No: DEMO-1733 · Begonvil Tourism Ltd. (fictional)",
-          "ar": "جميع الحقوق محفوظة · رقم رخصة التشغيل السياحي: DEMO-1733 · شركة بيغونفيل للسياحة (افتراضية)"
+          "ar": "جميع الحقوق محفوظة · رقم رخصة التشغيل السياحي: DEMO-1733 · شركة بيغونفيل للسياحة (افتراضية)",
+          "de": "Alle Rechte vorbehalten · Tourismus-Betriebsgenehmigung Nr.: DEMO-1733 · Begonvil Turizm Ltd. Şti. (fiktiv)",
+          "ru": "Все права защищены · Лицензия на туристическую деятельность №: DEMO-1733 · Begonvil Turizm Ltd. Şti. (вымышленная)"
         },
         "bg": "var(--mx-site-surface, #f6f7f9)",
         "text": "var(--mx-site-text, #111318)",
@@ -2383,12 +2899,16 @@
         "about": {
           "tr": "Begonvil Otel demo temadır; belge numarası, adres, puanlar ve koşullar kurgusaldır.",
           "en": "Begonvil Hotel is a demo theme; the licence number, address, ratings and terms are fictional.",
-          "ar": "فندق بيغونفيل قالب تجريبي؛ رقم الرخصة والعنوان والتقييمات والشروط افتراضية."
+          "ar": "فندق بيغونفيل قالب تجريبي؛ رقم الرخصة والعنوان والتقييمات والشروط افتراضية.",
+          "de": "Begonvil Hotel ist ein Demo-Theme; Lizenznummer, Adresse, Bewertungen und Bedingungen sind fiktiv.",
+          "ru": "Begonvil Hotel — это демо-тема; номер лицензии, адрес, рейтинги и условия являются вымышленными."
         },
         "address": {
           "tr": "Çınaraltı Sokak No: 17, Bozcaada, Çanakkale (kurgusal adres)",
           "en": "17 Cinaralti Street, Bozcaada, Canakkale (fictional address)",
-          "ar": "شارع تشينار ألتي رقم 17، بوزجاادا، جناق قلعة (عنوان افتراضي)"
+          "ar": "شارع تشينار ألتي رقم 17، بوزجاادا، جناق قلعة (عنوان افتراضي)",
+          "de": "Çınaraltı Sokak Nr. 17, Bozcaada, Çanakkale (fiktive Adresse)",
+          "ru": "Çınaraltı Sokak No: 17, Bozcaada, Çanakkale (условный адрес)"
         },
         "phone": "+90 286 069 17 33",
         "email": "konuk@begonvilotel.example",
@@ -2398,7 +2918,9 @@
             "name": {
               "tr": "KVKK",
               "en": "Privacy (KVKK)",
-              "ar": "حماية البيانات"
+              "ar": "حماية البيانات",
+              "de": "Datenschutz (KVKK)",
+              "ru": "Закон о защите данных (KVKK)"
             },
             "href": "kisiselveriler"
           },
@@ -2406,7 +2928,9 @@
             "name": {
               "tr": "Gizlilik",
               "en": "Privacy policy",
-              "ar": "سياسة الخصوصية"
+              "ar": "سياسة الخصوصية",
+              "de": "Datenschutz",
+              "ru": "Конфиденциальность"
             },
             "href": "gizlilikpolitikasi"
           },
@@ -2414,7 +2938,9 @@
             "name": {
               "tr": "Yasal uyarı",
               "en": "Legal notice",
-              "ar": "إشعار قانوني"
+              "ar": "إشعار قانوني",
+              "de": "Rechtlicher Hinweis",
+              "ru": "Правовое уведомление"
             },
             "href": "yasaluyari"
           }
@@ -2422,17 +2948,23 @@
         "nlTitle": {
           "tr": "Sezon haberleri",
           "en": "Season news",
-          "ar": "أخبار الموسم"
+          "ar": "أخبار الموسم",
+          "de": "Saisonnachrichten",
+          "ru": "Новости сезона"
         },
         "nlText": {
           "tr": "Sezon açılışı ve feribot saatleri için e-posta bırakın. Bu demo sitede veri saklanmaz.",
           "en": "Leave your e-mail for the season opening and ferry times. No data is stored on this demo site.",
-          "ar": "اترك بريدك الإلكتروني لمواعيد افتتاح الموسم وأوقات العبّارة. لا تُحفظ أي بيانات في هذا الموقع التجريبي."
+          "ar": "اترك بريدك الإلكتروني لمواعيد افتتاح الموسم وأوقات العبّارة. لا تُحفظ أي بيانات في هذا الموقع التجريبي.",
+          "de": "Hinterlassen Sie Ihre E-Mail für Saisonstart und Fährzeiten. Auf dieser Demo-Seite werden keine Daten gespeichert.",
+          "ru": "Оставьте e-mail, чтобы узнать об открытии сезона и расписании паромов. На этом демо-сайте данные не сохраняются."
         },
         "nlKvkk": {
           "tr": "E-postanız yalnızca duyuru göndermek için kullanılır; dilediğiniz an listeden çıkabilirsiniz.",
           "en": "Your e-mail is used only to send announcements; you can leave the list at any time.",
-          "ar": "يُستخدم بريدك الإلكتروني لإرسال الإعلانات فقط، ويمكنك إلغاء الاشتراك في أي وقت."
+          "ar": "يُستخدم بريدك الإلكتروني لإرسال الإعلانات فقط، ويمكنك إلغاء الاشتراك في أي وقت.",
+          "de": "Ihre E-Mail-Adresse wird nur für den Versand von Ankündigungen verwendet; Sie können sich jederzeit abmelden.",
+          "ru": "Ваш e-mail используется только для рассылки объявлений; вы можете отписаться в любой момент."
         },
         "services": [],
         "hours": [
@@ -2440,7 +2972,9 @@
             "days": {
               "tr": "Resepsiyon",
               "en": "Front desk",
-              "ar": "الاستقبال"
+              "ar": "الاستقبال",
+              "de": "Rezeption",
+              "ru": "Ресепшн"
             },
             "time": "08:00 – 23:00"
           },
@@ -2448,7 +2982,9 @@
             "days": {
               "tr": "Giriş",
               "en": "Check-in",
-              "ar": "الوصول"
+              "ar": "الوصول",
+              "de": "Anmelden",
+              "ru": "Вход"
             },
             "time": "14:00"
           },
@@ -2456,7 +2992,9 @@
             "days": {
               "tr": "Çıkış",
               "en": "Check-out",
-              "ar": "المغادرة"
+              "ar": "المغادرة",
+              "de": "Ausgang",
+              "ru": "Выход"
             },
             "time": "11:30"
           },
@@ -2464,7 +3002,9 @@
             "days": {
               "tr": "Kahvaltı",
               "en": "Breakfast",
-              "ar": "الإفطار"
+              "ar": "الإفطار",
+              "de": "Frühstück",
+              "ru": "Завтрак"
             },
             "time": "08:30 – 11:00"
           }
@@ -2516,22 +3056,30 @@
         "ust": {
           "tr": "Odalar ve avlu",
           "en": "Rooms and courtyard",
-          "ar": "الغرف والفناء"
+          "ar": "الغرف والفناء",
+          "de": "Zimmer und Innenhof",
+          "ru": "Номера и внутренний двор"
         },
         "baslik": {
           "tr": "Otelde bir gün, dört albümde",
           "en": "A day at the hotel, in four albums",
-          "ar": "يوم في الفندق في أربعة ألبومات"
+          "ar": "يوم في الفندق في أربعة ألبومات",
+          "de": "Ein Tag im Hotel, in vier Alben",
+          "ru": "День в отеле, в четырёх альбомах"
         },
         "metin": {
           "tr": "Albüm kapağına dokunun; görseller tam ekran açılır, oklarla gezin. Görseller temsilîdir. Fiyatlar tarihe ve doluluğa göre değiştiği için konaklama talebiyle yazılı bildirilir.",
           "en": "Tap an album cover; the images open full screen, browse with the arrows. Images are representative. Prices vary by date and occupancy, so they are sent in writing with your stay request.",
-          "ar": "المس غلاف الألبوم؛ تُفتح الصور بملء الشاشة وتنقّل بالأسهم. الصور تمثيلية. تختلف الأسعار حسب التاريخ والإشغال، لذا تُرسل كتابيًا مع طلب الإقامة."
+          "ar": "المس غلاف الألبوم؛ تُفتح الصور بملء الشاشة وتنقّل بالأسهم. الصور تمثيلية. تختلف الأسعار حسب التاريخ والإشغال، لذا تُرسل كتابيًا مع طلب الإقامة.",
+          "de": "Tippen Sie auf ein Albumcover; die Bilder öffnen sich im Vollbildmodus, blättern Sie mit den Pfeilen. Bilder sind repräsentativ. Da die Preise je nach Datum und Belegung variieren, werden sie schriftlich mit Ihrer Buchungsanfrage mitgeteilt.",
+          "ru": "Нажмите на обложку альбома; изображения откроются на весь экран, листайте стрелками. Изображения носят иллюстративный характер. Цены зависят от даты и загрузки, поэтому сообщаются письменно вместе с запросом на бронирование."
         },
         "tumu": {
           "tr": "Tümü",
           "en": "All",
-          "ar": "الكل"
+          "ar": "الكل",
+          "de": "Alle",
+          "ru": "Все"
         },
         "bg": "var(--mx-site-bg, #ffffff)",
         "text": "var(--mx-site-text, #111318)",
@@ -2547,7 +3095,9 @@
         "kapatAd": {
           "tr": "Kapat",
           "en": "Close",
-          "ar": "إغلاق"
+          "ar": "إغلاق",
+          "de": "Schließen",
+          "ru": "Закрыть"
         },
         "bgcolor": "var(--mx-site-bg, #ffffff)",
         "color": "var(--mx-site-text, #111318)",
@@ -2557,7 +3107,9 @@
             "name": {
               "tr": "Odalar",
               "en": "Rooms",
-              "ar": "الغرف"
+              "ar": "الغرف",
+              "de": "Zimmer",
+              "ru": "Номера"
             }
           },
           {
@@ -2565,7 +3117,9 @@
             "name": {
               "tr": "Havuz ve bahçe",
               "en": "Pool and garden",
-              "ar": "المسبح والحديقة"
+              "ar": "المسبح والحديقة",
+              "de": "Pool und Garten",
+              "ru": "Бассейн и сад"
             }
           },
           {
@@ -2573,7 +3127,9 @@
             "name": {
               "tr": "Sofra",
               "en": "The table",
-              "ar": "المائدة"
+              "ar": "المائدة",
+              "de": "Tisch",
+              "ru": "Стол"
             }
           },
           {
@@ -2581,7 +3137,9 @@
             "name": {
               "tr": "Lobi",
               "en": "Lobby",
-              "ar": "الردهة"
+              "ar": "الردهة",
+              "de": "Lobby",
+              "ru": "Лобби"
             }
           }
         ]
@@ -2595,17 +3153,23 @@
           "baslik": {
             "tr": "Avlu odası",
             "en": "Courtyard room",
-            "ar": "غرفة الفناء"
+            "ar": "غرفة الفناء",
+            "de": "Hofzimmer",
+            "ru": "Номер во дворе"
           },
           "alt": {
             "tr": "Ahşap yataklı aydınlık oda",
             "en": "A bright room with a wooden bed",
-            "ar": "غرفة مشرقة بسرير خشبي"
+            "ar": "غرفة مشرقة بسرير خشبي",
+            "de": "Helles Zimmer mit Holzbett",
+            "ru": "Светлый номер с деревянной кроватью"
           },
           "metin": {
             "tr": "22 m², çift kişilik yatak, avlu manzarası.",
             "en": "22 m², double bed, courtyard view.",
-            "ar": "22 م²، سرير مزدوج، إطلالة على الفناء."
+            "ar": "22 م²، سرير مزدوج، إطلالة على الفناء.",
+            "de": "22 m², Doppelbett, Blick auf den Innenhof.",
+            "ru": "22 м², двуспальная кровать, вид на дворик."
           }
         },
         {
@@ -2616,17 +3180,23 @@
           "baslik": {
             "tr": "Balkonlu oda",
             "en": "Balcony room",
-            "ar": "غرفة بشرفة"
+            "ar": "غرفة بشرفة",
+            "de": "Zimmer mit Balkon",
+            "ru": "Номер с балконом"
           },
           "alt": {
             "tr": "Zeytinliğe açılan balkonlu oda",
             "en": "A room with a balcony over the olive grove",
-            "ar": "غرفة بشرفة تطل على بستان الزيتون"
+            "ar": "غرفة بشرفة تطل على بستان الزيتون",
+            "de": "Zimmer mit Balkon über der Olivenhaine",
+            "ru": "Комната с балконом над оливковой рощей"
           },
           "metin": {
             "tr": "24 m², zeytin bahçesine bakan balkon.",
             "en": "24 m², balcony over the olive garden.",
-            "ar": "24 م²، شرفة تطل على بستان الزيتون."
+            "ar": "24 م²، شرفة تطل على بستان الزيتون.",
+            "de": "24 m², Balkon mit Blick auf den Olivenhain.",
+            "ru": "24 м², балкон с видом на оливковую рощу."
           }
         },
         {
@@ -2637,17 +3207,23 @@
           "baslik": {
             "tr": "Aile odası",
             "en": "Family room",
-            "ar": "غرفة عائلية"
+            "ar": "غرفة عائلية",
+            "de": "Familienzimmer",
+            "ru": "Семейный номер"
           },
           "alt": {
             "tr": "Kanepeli oturma köşesi olan oda",
             "en": "A room with a sofa corner",
-            "ar": "غرفة بركن جلوس وأريكة"
+            "ar": "غرفة بركن جلوس وأريكة",
+            "de": "Ein Zimmer mit Sofaecke",
+            "ru": "Комната с угловой секцией для дивана"
           },
           "metin": {
             "tr": "Dört kişiye kadar, ayrı oturma köşesi.",
             "en": "Up to four guests, separate sitting corner.",
-            "ar": "حتى أربعة ضيوف، مع ركن جلوس منفصل."
+            "ar": "حتى أربعة ضيوف، مع ركن جلوس منفصل.",
+            "de": "Bis zu vier Gäste, separater Sitzbereich.",
+            "ru": "До четырёх гостей, отдельная зона отдыха."
           }
         },
         {
@@ -2658,17 +3234,23 @@
           "baslik": {
             "tr": "Deniz kenarı havuz",
             "en": "Seaside pool",
-            "ar": "مسبح على البحر"
+            "ar": "مسبح على البحر",
+            "de": "Pool am Meer",
+            "ru": "Бассейн на берегу моря"
           },
           "alt": {
             "tr": "Denize bakan havuz ve şezlonglar",
             "en": "A pool facing the sea with sun loungers",
-            "ar": "مسبح يطل على البحر مع كراسي استلقاء"
+            "ar": "مسبح يطل على البحر مع كراسي استلقاء",
+            "de": "Pool mit Meerblick und Liegestühlen",
+            "ru": "Бассейн с видом на море и шезлонгами"
           },
           "metin": {
             "tr": "Mayıs – ekim arası açık.",
             "en": "Open from May to October.",
-            "ar": "مفتوح من مايو إلى أكتوبر."
+            "ar": "مفتوح من مايو إلى أكتوبر.",
+            "de": "Geöffnet von Mai bis Oktober.",
+            "ru": "Открыто с мая по октябрь."
           }
         },
         {
@@ -2679,17 +3261,23 @@
           "baslik": {
             "tr": "Zeytin bahçesi",
             "en": "Olive garden",
-            "ar": "بستان الزيتون"
+            "ar": "بستان الزيتون",
+            "de": "Olivengarten",
+            "ru": "Оливковый сад"
           },
           "alt": {
             "tr": "Zeytin ağaçları arasında havuzlu avlu",
             "en": "A courtyard with a pool among olive trees",
-            "ar": "فناء بمسبح بين أشجار الزيتون"
+            "ar": "فناء بمسبح بين أشجار الزيتون",
+            "de": "Innenhof mit Pool zwischen Olivenbäumen",
+            "ru": "Внутренний двор с бассейном среди оливковых деревьев"
           },
           "metin": {
             "tr": "Öğleden sonra gölgelik oturma.",
             "en": "Shaded seating in the afternoon.",
-            "ar": "جلسات مظللة بعد الظهر."
+            "ar": "جلسات مظللة بعد الظهر.",
+            "de": "Schattiger Sitzplatz am Nachmittag.",
+            "ru": "Затенённое место для сидения днём."
           }
         },
         {
@@ -2700,17 +3288,23 @@
           "baslik": {
             "tr": "Avlu kahvaltısı",
             "en": "Courtyard breakfast",
-            "ar": "إفطار الفناء"
+            "ar": "إفطار الفناء",
+            "de": "Hof-Frühstück",
+            "ru": "Завтрак во дворе"
           },
           "alt": {
             "tr": "Zeytin ağacı altında kahvaltı masası",
             "en": "A breakfast table under an olive tree",
-            "ar": "مائدة إفطار تحت شجرة زيتون"
+            "ar": "مائدة إفطار تحت شجرة زيتون",
+            "de": "Frühstückstisch unter dem Olivenbaum",
+            "ru": "Стол для завтрака под оливковым деревом"
           },
           "metin": {
             "tr": "Ada üreticilerinden peynir, zeytin ve reçel.",
             "en": "Cheese, olives and jam from island producers.",
-            "ar": "جبن وزيتون ومربى من منتجي الجزيرة."
+            "ar": "جبن وزيتون ومربى من منتجي الجزيرة.",
+            "de": "Käse, Oliven und Marmelade von Inselproduzenten.",
+            "ru": "Сыр, оливки и джем от островных производителей."
           }
         },
         {
@@ -2721,17 +3315,23 @@
           "baslik": {
             "tr": "Taş resepsiyon",
             "en": "Stone front desk",
-            "ar": "استقبال حجري"
+            "ar": "استقبال حجري",
+            "de": "Empfang aus Stein",
+            "ru": "Каменная стойка ресепшн"
           },
           "alt": {
             "tr": "Taş tezgâhlı resepsiyon",
             "en": "A front desk with a stone counter",
-            "ar": "استقبال بطاولة حجرية"
+            "ar": "استقبال بطاولة حجرية",
+            "de": "Rezeption mit Steintresen",
+            "ru": "Ресепшен с каменной стойкой"
           },
           "metin": {
             "tr": "Karşılama ve bagaj saklama.",
             "en": "Welcome and luggage storage.",
-            "ar": "الاستقبال وحفظ الأمتعة."
+            "ar": "الاستقبال وحفظ الأمتعة.",
+            "de": "Begrüßung und Gepäckaufbewahrung.",
+            "ru": "Встреча и хранение багажа."
           }
         }
       ],
@@ -2778,30 +3378,40 @@
         "ust": {
           "tr": "İptal koşulları",
           "en": "Cancellation terms",
-          "ar": "شروط الإلغاء"
+          "ar": "شروط الإلغاء",
+          "de": "Storno",
+          "ru": "Отмена"
         },
         "baslik": {
           "tr": "İptal ve değişiklik koşulları",
           "en": "Cancellation and change terms",
-          "ar": "شروط الإلغاء والتعديل"
+          "ar": "شروط الإلغاء والتعديل",
+          "de": "Stornierungs- und Änderungsbedingungen",
+          "ru": "Условия отмены и изменения"
         },
         "metin": {
           "tr": "Belirli bir tarih için yapılan konaklama rezervasyonlarında 6502 sayılı Kanun md. 15/g uyarınca cayma hakkı bulunmaz. Aşağıdaki koşullar demo örnektir; rezervasyon onayında yazılı olarak yinelenir. Turizm İşletme Belgesi No: DEMO-1733 · Begonvil Turizm Ltd. Şti. (kurgusal)",
           "en": "For stays booked for a specific date there is no right of withdrawal under Law No. 6502 art. 15/g. The terms below are demo examples; they are repeated in writing in the booking confirmation. Tourism Operation Licence No: DEMO-1733 · Begonvil Tourism Ltd. (fictional)",
-          "ar": "لا يوجد حق عدول في حجوزات الإقامة المحددة بتاريخ معيّن بموجب المادة 15/ز من القانون التركي رقم 6502. الشروط أدناه أمثلة تجريبية، وتُكرَّر كتابيًا في تأكيد الحجز. رقم رخصة التشغيل السياحي: DEMO-1733 · شركة بيغونفيل للسياحة (افتراضية)"
+          "ar": "لا يوجد حق عدول في حجوزات الإقامة المحددة بتاريخ معيّن بموجب المادة 15/ز من القانون التركي رقم 6502. الشروط أدناه أمثلة تجريبية، وتُكرَّر كتابيًا في تأكيد الحجز. رقم رخصة التشغيل السياحي: DEMO-1733 · شركة بيغونفيل للسياحة (افتراضية)",
+          "de": "Bei Aufenthalten mit festem Datum besteht gemäß Art. 15/g des Gesetzes Nr. 6502 kein Widerrufsrecht. Die folgenden Bedingungen sind Demobeispiele; sie werden in der Buchungsbestätigung schriftlich wiederholt. Tourismus-Betriebslizenz Nr.: DEMO-1733 · Begonvil Turizm Ltd. Şti. (fiktiv)",
+          "ru": "Для бронирований на конкретную дату право на отказ отсутствует согласно ст. 15/g Закона № 6502. Условия ниже являются демо-примерами; они повторяются в письменной форме в подтверждении бронирования. Лицензия на туристическую деятельность №: DEMO-1733 · Begonvil Turizm Ltd. Şti. (вымышленная)"
         },
         "img": "/img/otel-oda-2.webp",
         "img2": "",
         "cta_ad": {
           "tr": "Konaklama talebi",
           "en": "Request a stay",
-          "ar": "اطلب إقامة"
+          "ar": "اطلب إقامة",
+          "de": "Aufenthalt anfragen",
+          "ru": "Запросить проживание"
         },
         "cta_url": "teklif-al",
         "cta2_ad": {
           "tr": "İletişim",
           "en": "Contact",
-          "ar": "اتصل بنا"
+          "ar": "اتصل بنا",
+          "de": "Kontakt",
+          "ru": "Контакты"
         },
         "cta2_url": "iletisim",
         "bg": "var(--mx-site-bg, #ffffff)",
@@ -2823,12 +3433,16 @@
           "baslik": {
             "tr": "10+ gün: ücretsiz iptal",
             "en": "10+ days: free cancellation",
-            "ar": "10+ أيام: إلغاء مجاني"
+            "ar": "10+ أيام: إلغاء مجاني",
+            "de": "10+ Tage: kostenlose Stornierung",
+            "ru": "10+ дней: бесплатное отмена"
           },
           "metin": {
             "tr": "Varıştan 10 gün öncesine kadar ön ödeme iade edilir.",
             "en": "Up to 10 days before arrival the deposit is refunded.",
-            "ar": "تُسترد الدفعة المقدمة حتى 10 أيام قبل الوصول."
+            "ar": "تُسترد الدفعة المقدمة حتى 10 أيام قبل الوصول.",
+            "de": "Die Anzahlung wird bis 10 Tage vor der Anreise erstattet.",
+            "ru": "Предоплата возвращается не позднее чем за 10 дней до приезда."
           }
         },
         {
@@ -2836,12 +3450,16 @@
           "baslik": {
             "tr": "10–4 gün: ilk gece",
             "en": "10–4 days: first night",
-            "ar": "10–4 أيام: الليلة الأولى"
+            "ar": "10–4 أيام: الليلة الأولى",
+            "de": "10–4 Tage: erste Nacht",
+            "ru": "10–4 дня: первая ночь"
           },
           "metin": {
             "tr": "Bu aralıkta ilk gece ücreti tutulur.",
             "en": "In this window the first night is charged.",
-            "ar": "تُحتسب الليلة الأولى في هذه الفترة."
+            "ar": "تُحتسب الليلة الأولى في هذه الفترة.",
+            "de": "In diesem Zeitraum wird die erste Nacht berechnet.",
+            "ru": "В этот период взимается плата за первую ночь."
           }
         },
         {
@@ -2849,12 +3467,16 @@
           "baslik": {
             "tr": "4 günden az: tam ücret",
             "en": "Under 4 days: full charge",
-            "ar": "أقل من 4 أيام: المبلغ كاملًا"
+            "ar": "أقل من 4 أيام: المبلغ كاملًا",
+            "de": "Weniger als 4 Tage: volle Gebühr",
+            "ru": "Менее 4 дней: полная стоимость"
           },
           "metin": {
             "tr": "Geç iptal ya da gelmemede tüm konaklama bedeli alınır.",
             "en": "Late cancellation or no-show is charged the full stay.",
-            "ar": "يُحتسب كامل مبلغ الإقامة عند الإلغاء المتأخر أو عدم الحضور."
+            "ar": "يُحتسب كامل مبلغ الإقامة عند الإلغاء المتأخر أو عدم الحضور.",
+            "de": "Bei später Stornierung oder Nichterscheinen wird der gesamte Aufenthaltspreis berechnet.",
+            "ru": "При поздней отмене или неявке взимается полная стоимость проживания."
           }
         },
         {
@@ -2862,12 +3484,16 @@
           "baslik": {
             "tr": "Tarih değişikliği",
             "en": "Date changes",
-            "ar": "تغيير التواريخ"
+            "ar": "تغيير التواريخ",
+            "de": "Terminänderung",
+            "ru": "Перенос даты"
           },
           "metin": {
             "tr": "Müsaitliğe bağlı, varıştan 4 gün öncesine kadar ücretsiz.",
             "en": "Free up to 4 days before arrival, subject to availability.",
-            "ar": "مجاني حتى 4 أيام قبل الوصول حسب التوافر."
+            "ar": "مجاني حتى 4 أيام قبل الوصول حسب التوافر.",
+            "de": "Kostenlos bis 4 Tage vor Ankunft, je nach Verfügbarkeit.",
+            "ru": "Бесплатно за 4 дня до заезда, в зависимости от наличия."
           }
         }
       ],
